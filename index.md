@@ -7,7 +7,7 @@ origin: "getting-started"
     <div class="large-12 columns" style="margin-top:8px">
         <div style="text-align:center"><img src="assets/img/php-elephant.jpg"></div>
         <h3 style="font-family:Audiowide;text-align:center">Welcome developer</h3>
-        <p>to the Github Pages of the <strong>international PHP Facebook Groups</strong>,
+        <p>to the Github Pages of the <strong>international PHP Facebook Group</strong>,
         the following pages will show you our rules, a qualified FAQ containing
         most asked questions from our daily discoveries on our group and an small 
         overview who is representing the group as its staff.</p>
