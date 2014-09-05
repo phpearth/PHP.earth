@@ -14,8 +14,8 @@ layout: foundation-bootstrap
             <!-- Right Nav Section -->
             <ul class="right">
                 <li{% if page.origin == 'getting-started' %} class="active"{% endif %}><a href="/"><i class="fa fa-play"></i> Getting started</a></li>
-                <li><a href="/faq/"><i class="fa fa-fire"></i> our FAQ ({{ site.faq | size }})</a></li>
-                <li><a href="#coming-soon"><i class="fa fa-shield"></i> our Staff</a></li>
+                <li{% if page.origin == 'faq' %} class="active"{% endif %}><a href="/faq/"><i class="fa fa-fire"></i> our FAQ ({{ site.faq | size }})</a></li>
+                <li{% if page.origin == 'admins' %} class="active"{% endif %}><a href="/admins.html"><i class="fa fa-shield"></i> our Staff</a></li>
                 <li><a href="https://www.facebook.com/groups/{{ site.fb-group-id }}/"><i class="fa fa-send"></i> to our Facebook Group</a></li>
             </ul>
         </section>
@@ -33,22 +33,9 @@ layout: foundation-bootstrap
         </div>
     </div>
 </footer>
-
-<div id="fb-root"></div>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '566418756821183',
-      xfbml      : true,
-      version    : 'v2.0'
-    });
-  };
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
+<div style="color:white; padding-top:8px; padding-bottom:8px; text-align:center;">
+    <a href="https://travis-ci.org/wwphp-fb/wwphp-fb.github.io">
+        <img src="https://travis-ci.org/wwphp-fb/wwphp-fb.github.io.svg?branch=master" alt="travis-ci state">
+    </a>
+    <p><small>This page is mobile ready and based on HTML5 and <a href="http://foundation.zurb.com/">Foundation 5</a></small></p>
+</div>

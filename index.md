@@ -109,11 +109,3 @@ origin: "getting-started"
             &laquo;Stay hungry, stay foolish.&raquo; <small><cite><a href="http://news.stanford.edu/news/2005/june15/jobs-061505.html">2005 - Steve Jobs &dagger;</a></cite></small>
     </div>
 </div>
-
-<div class="row">
-    <div class="large-12 columns" style="margin-top:8px">
-        <div data-alert class="alert-box success radius">
-            <strong>Notice:</strong> This pages are currently under development.
-        </div>
-    </div>
-</div>
