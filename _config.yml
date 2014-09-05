@@ -2,7 +2,7 @@ exclude: [ 'README.md', 'LICENSE', '_faq/README.md', '_faq/LICENSE' ]
 
 fb-group-id: 2204685680
 
-collection:
+collections:
     faq:
     
         output: true
