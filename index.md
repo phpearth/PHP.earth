@@ -5,7 +5,7 @@ origin: "getting-started"
 ---
 <div class="row">
     <div class="large-12 columns" style="margin-top:8px">
-        <div style="text-align:center"><img src="assets/img/php-elephant.jpg"></div>
+        <div style="text-align:center"><img src="assets/img/php-elephant.jpg" alt="an elephant, trust me."></div>
         <h3 style="font-family:Audiowide;text-align:center">Welcome developer</h3>
         <p>to the Github Pages of the <strong>international PHP Facebook Group</strong>,
         the following pages will show you our rules, a qualified FAQ containing
