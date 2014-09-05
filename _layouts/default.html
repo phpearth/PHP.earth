@@ -1,0 +1,54 @@
+---
+layout: foundation-bootstrap
+---
+<div class="contain-to-grid">
+    <nav class="top-bar" data-topbar role="navigation">
+        <ul class="title-area">
+            <li class="name">
+                <h1><span style="font-family:Audiowide; color:#aaa">PHP[<i class="fa fa-facebook-square"></i>/group]</span></h1>
+            </li>
+            <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+        </ul>
+
+        <section class="top-bar-section">
+            <!-- Right Nav Section -->
+            <ul class="right">
+                <li{% if page.origin == 'getting-started' %} class="active"{% endif %}><a href="/index.html"><i class="fa fa-play"></i> Getting started</a></li>
+                <li><a href="#coming-soon"><i class="fa fa-fire"></i> our FAQ</a></li>
+                <li><a href="#coming-soon"><i class="fa fa-shield"></i> our Staff</a></li>
+                <li><a href="https://www.facebook.com/groups/{{ site.fb-group-id }}/"><i class="fa fa-send"></i> to our Facebook Group</a></li>
+            </ul>
+        </section>
+    </nav>
+</div>
+
+<section role="main" class="scroll-container">
+{{ content }}
+</section>
+
+<footer style="background-color:black; color:white; padding-top:8px; padding-bottom:8px;">
+    <div class="row">
+        <div class="large-12 column">
+            <small>&copy;2014 Administrators of the International PHP Facebook Group</small>
+        </div>
+    </div>
+</footer>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '566418756821183',
+      xfbml      : true,
+      version    : 'v2.0'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
