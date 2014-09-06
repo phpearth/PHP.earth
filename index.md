@@ -51,8 +51,8 @@ origin: "getting-started"
     <div class="large-4 columns">
         <h5 style="color:red"><i class="fa fa-circle-thin"></i> no porn!</h5>
         <p>
-            Sharing porn to our group will be punished with a live time ban and an direct forward of your
-            account to the facebook support.
+            Sharing porn to our group will be punished with a life time ban and a direct forward of your
+            account to facebook support.
         </p>
     </div>
 </div>
@@ -73,7 +73,7 @@ origin: "getting-started"
     <div class="large-4 columns">
         <h5 style="color:red"><i class="fa fa-circle-thin"></i> no private data, in no case!</h5>
         <p>
-            We disallow comments and topics that keep private email-addresses, phone numbers, skype identities or addresses in general.
+            We disallow comments and topics that contain private email-addresses, phone numbers, skype identities or addresses in general.
             We do this to protect your privacy. Affected topics or comments will be removed from the group. 
         </p>
     </div>
