@@ -54,3 +54,5 @@ collections:
         output: true
         output_ext: html
         permalink: /faq/:path/
+
+fb-group-id: 2204685680
