@@ -2,6 +2,7 @@
 layout: default
 title: "Getting started"
 origin: "getting-started"
+og_image: "assets/img/fb-link.png"
 ---
 <div class="row">
     <div class="large-12 columns" style="margin-top:8px">

@@ -3,7 +3,11 @@ layout: faq-overview
 permalink: /faq/index.html
 title: "FAQ"
 origin: "faq"
+og_image: "assets/img/php-faq.png"
 ---
+<div style="text-align:center; padding:40px 40px;">
+    <img src="/assets/img/php-faq.png" alt="PHP FAQ">
+</div>
 
 #### Community FAQ
 
