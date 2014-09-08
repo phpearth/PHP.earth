@@ -4,7 +4,7 @@ defaults:
             path: ""
         values:
             author: "a 2 inch sized lemming"
-            
+
     -
         scope:
             path: ""
@@ -12,42 +12,42 @@ defaults:
         values:
             layout: standalone-faq-entry
 
-exclude: [ 'README.md', 'LICENSE', '_faq/README.md', '_faq/LICENSE' ]
+exclude: [ 'Gemfile', 'README.md', 'LICENSE', '_faq/README.md', '_faq/LICENSE', '_faq/CONTRIBUTING.md' ]
 
 admins:
 
     -
         name: "Peter Kokot"
         profile-id: "peterkokot"
-        
-    -   
+
+    -
         name: "Tony Sodano"
         profile-id: "tony.sodano.12"
-        
+
     -
         name: "Asad Hasan"
         profile-id: "asadg"
-        
+
     -
         name: "Ahsan Ali"
         profile-id: "100000064018416"
-        
+
     -
         name: "Aasif Saifuddin Auvi"
         profile-id: "asifsaif90"
-        
+
     -
         name: "Matthias Kaschubowski"
         profile-id: "matthias.kaschubowski"
-        
+
     -
         name: "Sami Khan"
         profile-id: "samikjr"
-        
+
     -
         name: "Mansoor Ahmed"
         profile-id: "MansoorA"
-    
+
 
 collections:
     faq:
