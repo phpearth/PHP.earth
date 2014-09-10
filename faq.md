@@ -5,7 +5,7 @@ title: "FAQ"
 origin: "faq"
 og_image: "assets/img/php-faq.png"
 ---
-<div style="text-align:center; padding:40px 40px;">
+<div style="text-align:center;">
     <img src="/assets/img/php-faq.png" alt="PHP FAQ">
 </div>
 
