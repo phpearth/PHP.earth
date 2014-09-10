@@ -11,6 +11,7 @@ defaults:
             collection: "faq"
         values:
             layout: standalone-faq-entry
+            og_image: "assets/img/php-faq.png"
 
 exclude: [ 'Gemfile', 'README.md', 'LICENSE', '_faq/README.md', '_faq/LICENSE', '_faq/CONTRIBUTING.md' ]
 
