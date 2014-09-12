@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-<div style="text-align:center;">
-    <img src="/assets/img/php-faq.png" alt="PHP FAQ">
-</div>
-
 <div class="row" style="padding-top:8px">
     <div class="large-4 columns">
+        <div style="text-align:center;">
+            <img src="/assets/img/php-faq-small.png" alt="PHP FAQ">
+        </div>
         <ul class="side-nav">
         {% for current in site.faq %}
             <li{% if current.title == page.title %} class="active"{% endif %}>
@@ -15,7 +14,7 @@ layout: default
         {% endfor %}
         </ul>
     </div>
-    <div class="large-8 columns">
+    <div class="large-8 columns" style="padding-top:40px;">
         {{ content }}
 
         <small>Authored by: <strong>{{ page.author }}</strong> somewhere on <u>earth</u>.</small>
