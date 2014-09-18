@@ -3,8 +3,8 @@ defaults:
         scope:
             path: ""
         values:
-            author: "a 2 inch sized lemming"
-
+            read_time: "1 min"
+            updated: "september 18, 2014"
     -
         scope:
             path: ""
