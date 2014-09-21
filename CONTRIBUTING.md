@@ -1,18 +1,9 @@
-# World Wide Facebook Group GitHub Page
-
 This is the Github-Pages Repository of the international PHP Facebook Group. Site is built with GitHub Pages which use
 Jekyll.
 
 ## Installation
 
-Local installation of the wwphp-fb.github.io requires Ruby and [Jekyll][jekyll] to preview the main site on your localhost.
-Install Jekyll according to the [offical documentation](http://jekyllrb.com/docs/installation/) and run the following command to build site:
-
-```bash
-$ jekyll server --watch
-```
-
-Preview of generated static files can than be viewed at http://localhost:4000
+Local installation of the wwphp-fb.github.io requires Ruby and [Jekyll][jekyll] to preview on localhost.
 
 ## For Contributors:
 

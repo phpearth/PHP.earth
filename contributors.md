@@ -7,15 +7,16 @@ origin: "contributors"
     <div class="large-12 columns">
 
     <div style="text-align:center;">
-        <img src="/assets/img/php-elephant.jpg" alt="elePHPant">
+        <img src="/assets/img/elephpant.jpg" alt="elePHPant">
     </div>
 
     <h3 style="font-family:Audiowide;text-align:center">Contributing</h3>
 
-    Title: {{ site.github.project_title }}
+    <p>We always need contributors and people willing to help.</p>
 
-{% for contributor in site.github.contributors %}
-{{ contributor.username }}
-{% endfor %}
+    <h4>PHP FAQ</h4>
+
+    <p>If you feel that there is a question missing here and should be pointed out or you have just found a typo, don't hesitate to open a pull request or start a topic in the group.</p>
+
     <div/>
 </div>
