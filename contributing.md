@@ -17,6 +17,4 @@ origin: "contributors"
     <h4>PHP FAQ</h4>
 
     <p>If you feel that there is a question missing here and should be pointed out or you have just found a typo, don't hesitate to open a pull request or start a topic in the group.</p>
-
-    <div/>
 </div>
