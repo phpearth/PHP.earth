@@ -13,7 +13,7 @@ defaults:
             layout: standalone-faq-entry
             og_image: "assets/img/php-faq.png"
 
-exclude: [ 'Gemfile', 'README.md', 'LICENSE', '_faq/README.md', '_faq/LICENSE', '_faq/CONTRIBUTING.md' ]
+exclude: [ 'Gemfile', 'README.md', 'LICENSE', 'CONTRIBUTING.md', '_faq/README.md', '_faq/LICENSE', '_faq/CONTRIBUTING.md' ]
 
 admins:
 
@@ -57,3 +57,6 @@ collections:
         permalink: /faq/:path/
 
 fb-group-id: 2204685680
+
+gems:
+    - jekyll-sitemap
