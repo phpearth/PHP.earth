@@ -57,6 +57,11 @@ admins:
         profile-id: "MansoorA"
         active: true
 
+    -
+        name: "Suraj Kumar Adhikari"
+        profile-id: "surajadhikaridev"
+        active: true
+
 
 collections:
     faq:
