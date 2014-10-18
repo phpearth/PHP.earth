@@ -96,7 +96,7 @@ og_image: "assets/img/fb-link.png"
     <div class="large-4 columns">
         <h5 style="color:red"><i class="fa fa-circle-thin"></i> no infected urls!</h5>
         <p>
-            Infected urls are softely removed, that means we will hide the topic and respond on the topic to inform you, that your shared link was infected by a virus or trojan or lemmings. After 3-6 hours, the topic will be finally removed.
+            Infected urls are softly removed, that means we will hide the topic and respond on the topic to inform you, that your shared link was infected by a virus, trojan or lemmings. After 3-6 hours, the topic will be finally removed.
         </p>
     </div>
 </div>
