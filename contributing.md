@@ -7,7 +7,7 @@ origin: "contributors"
     <div class="large-12 columns">
 
     <div style="text-align:center;">
-        <img src="/assets/img/elephpant.jpg" alt="elePHPant">
+        <img src="/assets/img/elephpant.png" alt="elePHPant">
     </div>
 
     <h3 style="font-family:Audiowide;text-align:center">Contributing</h3>

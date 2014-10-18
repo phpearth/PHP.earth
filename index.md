@@ -6,7 +6,7 @@ og_image: "assets/img/fb-link.png"
 ---
 <div class="row">
     <div class="large-12 columns" style="margin-top:8px">
-        <div style="text-align:center"><img src="assets/img/elephpant.jpg" alt="an elephant, trust me."></div>
+        <div style="text-align:center"><img src="assets/img/elephpant.png" alt="an elephant, trust me."></div>
         <h3 style="font-family:Audiowide;text-align:center">Welcome developer</h3>
         <p>to the Github Pages of the <strong>international PHP Facebook Group</strong>,
         the following pages will show you our rules, a qualified FAQ containing
@@ -30,7 +30,7 @@ og_image: "assets/img/fb-link.png"
         <h5 style="color:red"><i class="fa fa-circle-thin"></i> Your topic has to be web development-centric</h5>
         <p>
             You are, or will be, a member of a PHP group that allows the discussion of web development topics,
-            this includes topics about PHP, embeddable, client-related or service-extending languages (including NodeJS, JavaScript, CSS), XML, XSLT, YAML and others. You should keep in mind that our group is generally a PHP group. A good mix is what we would see and what we would allow, otherwise 14 days long periods of NodeJS-discussions are not part our goals. This rule may be improved and reduced to a lower set of languages in the future, depending on how the group acts.
+            this includes topics about PHP, embeddable, client-related or service-extending languages (including NodeJS, JavaScript, CSS), XML, XSLT, YAML and others. You should keep in mind that our group is generally a PHP group. A good mix is what we would see and what we would allow, otherwise 14 days long periods of NodeJS-discussions are not part of our goals. This rule may be improved and reduced to a lower set of languages in the future, depending on how the group acts.
         </p>
     </div>
 </div>
