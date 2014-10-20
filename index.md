@@ -96,13 +96,13 @@ og_image: "assets/img/fb-link.png"
     <div class="large-4 columns">
         <h5 style="color:red"><i class="fa fa-circle-thin"></i> no infected urls!</h5>
         <p>
-            Infected urls are softly removed, that means we will hide the topic and respond on the topic to inform you, that your shared link was infected by a virus, trojan or lemmings. After 3-6 hours, the topic will be finally removed.
+            Infected urls or topics opened by Facebook Apps or viruses without your knowledge are deleted and your account is not removed right away. If the unwanted postings continue we remove your account as well from the group.
         </p>
     </div>
 </div>
 <div class="row">
     <div class="large-12 columns" style="margin-top:16px; margin-bottom:16px; text-align:center;">
-            have a good time at our group and don't be shy to ask your question,
+            have a good time at our group and don't be shy to ask your question.
     </div>
 </div>
 <div class="row">
