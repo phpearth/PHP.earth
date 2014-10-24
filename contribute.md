@@ -20,7 +20,7 @@ og_image: "assets/img/elephpant.png"
     thank each and everyone that is dedicating their time and knowledge in helping in this Facebook group, so we have made this special section where
     your contribution can get noted on this page as well.</p>
 
-    <h4>PHP FAQ</h4>
+    <h2>PHP FAQ</h2>
 
     <p>Another important section of this group is PHP-FAQ. What you can do to help out?</p>
 
@@ -28,9 +28,40 @@ og_image: "assets/img/elephpant.png"
     <a href="/faq">list of frequently asked questions</a> and check if there are missing information, missing questions that should be pointed
     or fix typos.</a>
 
-    <h4>Contributors</h4>
+    <h2>Contributors</h2>
 
     <p>Special credits for contributions to this page goes to these awesome people:</p>
 
     <div id="contributors"></div>
+
+    <h2>How to contribute?</h2>
+
+    <ul>
+    <li>Fork wanted project from <a href="https://github.com/wwphp-fb">GitHub</a></li>
+    <li>Setup your local environment:
+    <blockquote>$ git clone git@github.com:your_username:php-faq.git</blockquote>
+    </li>
+    <li>Set up your repository and set a remote branch for future updates:
+    <blockquote>
+    $ git add remote upstream git://github.com/wwphp-fb/php-faq.git<br>
+    $ git config branch.master.remote upstream
+    </blockquote>
+    That way you can update your repository (when the upstream gets updated) and automatically pull upstream commits:
+
+    <blockquote>$ git pull</blockquote>
+    </li>
+
+    <li>Create a new Git branch for instance patch-1:
+    <blockquote>$ git checkout -b patch-1</blockquote>
+
+    This ensures that your repository will not need rebasing when the upstream gets updated.
+    </li>
+    <li>Commit and push to your GitHub repository
+    <blockquote>$ git add .<br>
+    $ git commit -m "my new changes"<br>
+    $ git push origin</blockquote>
+    </li>
+    <li>Send a pull request</li>
+    </ul>
+
 </div>
