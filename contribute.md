@@ -32,34 +32,36 @@ og_image: "assets/img/elephpant.png"
 
     <p>Special credits for contributions to this page goes to these awesome people:</p>
 
-    <div id="contributors"></div>
+    <div id="contribute-contributors"></div>
 
     <h2>How to contribute?</h2>
 
     <ul>
     <li>Fork wanted project from <a href="https://github.com/wwphp-fb">GitHub</a></li>
     <li>Setup your local environment:
-    <blockquote>$ git clone git@github.com:your_username:php-faq.git</blockquote>
+    {% highlight bash %}$ git clone git@github.com:your_username/php-faq.git{% endhighlight %}
     </li>
     <li>Set up your repository and set a remote branch for future updates:
-    <blockquote>
-    $ git add remote upstream git://github.com/wwphp-fb/php-faq.git<br>
-    $ git config branch.master.remote upstream
-    </blockquote>
+
+{% highlight bash %}
+$ git add remote upstream git://github.com/wwphp-fb/php-faq.git
+$ git config branch.master.remote upstream
+{% endhighlight %}
+
     That way you can update your repository (when the upstream gets updated) and automatically pull upstream commits:
 
-    <blockquote>$ git pull</blockquote>
+    {% highlight bash %}$ git pull{% endhighlight %}
     </li>
 
     <li>Create a new Git branch for instance patch-1:
-    <blockquote>$ git checkout -b patch-1</blockquote>
+    {% highlight bash %}$ git checkout -b patch-1{% endhighlight %}
 
     This ensures that your repository will not need rebasing when the upstream gets updated.
     </li>
     <li>Commit and push to your GitHub repository
-    <blockquote>$ git add .<br>
-    $ git commit -m "my new changes"<br>
-    $ git push origin</blockquote>
+{% highlight bash %}$ git add .
+$ git commit -m "my new changes"
+$ git push origin{% endhighlight %}
     </li>
     <li>Send a pull request</li>
     </ul>

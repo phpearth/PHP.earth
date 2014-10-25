@@ -10,7 +10,7 @@ og_image: "assets/img/fb-link.png"
         <h3 style="font-family:Audiowide;text-align:center">Welcome developer</h3>
         <p>to the Github Pages of the <strong>international PHP Facebook Group</strong>,
         the following pages will show you our rules, a qualified FAQ containing
-        most asked questions from our daily discoveries on our group and an small
+        most asked questions from our daily discoveries in our group and a small
         overview who is representing the group as its staff.</p>
         <p>But first, keep in mind that you accept the following rules of our group if you request a membership:</p>
     </div>
@@ -45,7 +45,7 @@ og_image: "assets/img/fb-link.png"
     <div class="large-4 columns">
         <h5 style="color:red"><i class="fa fa-circle-thin"></i> be professional</strong></h5>
         <p>
-            Sometimes you`ll see questions that are very easy to answer with the use of Google.
+            Sometimes you'll see questions that are very easy to answer with the use of Google.
             Stay professional, stay social. Help out with a link or a short explaination or ignore the topic.
         </p>
     </div>

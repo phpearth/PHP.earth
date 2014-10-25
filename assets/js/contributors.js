@@ -1,6 +1,6 @@
 (function ($) {
     // Load contributors
-    var $contributors = $('#contributors');
+    var $contributors = $('#contribute-contributors');
     if ( $contributors.length ) {
         var fail = function () {
             $contributors.html('<p><a href="https://github.com/wwphp-fb/php-faq/graphs/contributors">Awesome contributors on GitHub</a></p>');
