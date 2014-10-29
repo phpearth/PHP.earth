@@ -26,7 +26,7 @@ og_image: "assets/img/elephpant.png"
 
     <p>You can go through the <a href="https://github.com/wwphp-fb/php-faq/issues">open issues</a> on GitHub directly or go through the
     <a href="/faq">list of frequently asked questions</a> and check if there are missing information, missing questions that should be pointed
-    or fix typos.</a>
+    or fix typos.</p>
 
     <h2>Contributors</h2>
 
@@ -65,5 +65,5 @@ $ git push origin{% endhighlight %}
     </li>
     <li>Send a pull request</li>
     </ul>
-
+    </div>
 </div>

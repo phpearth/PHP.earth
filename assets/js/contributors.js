@@ -40,7 +40,6 @@
                     for ( var i = 0; i < contributors.length; i++ ) {
                         $ul.append(['<div style="float: left; margin-right: 20px; margin-bottom: 20px;"><a href="https://github.com/', contributors[i][0], '" target="_blank"><img src="', contributors[i][1], '" width="75" /> ', contributors[i][0], '</a> (commits: ', contributors[i][2], ')</div>'].join(''));
                     }
-                    console.log(contributors);
                     $ul.append('<div style="clear:both;"></div>');
                     $contributors.html($ul);
                 } else {
