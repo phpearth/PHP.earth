@@ -6,13 +6,9 @@ layout: default
         <div style="text-align:center;">
             <img src="/assets/img/php-faq-small.png" alt="PHP FAQ">
         </div>
-        <ul class="side-nav">
-        {% for current in site.faq %}
-            <li{% if current.title == page.title %} class="active"{% endif %}>
-                <a href="{{ current.url }}">{{ current.title }}</a>
-            </li>
-        {% endfor %}
-        </ul>
+
+        {% include faq.html %}
+
     </div>
     <div class="large-8 columns" style="padding-top:40px;">
         <h1>{{ page.title }}</h1>

@@ -4,12 +4,8 @@ layout: default
 <div class="row" style="padding-top:8px">
     <div class="large-12 columns">
         {{ content }}
-        <ul class="side-nav">
-        {% for current in site.faq %}
-            <li{% if current.title == page.title %} class="active"{% endif %}>
-                <a href="{{ current.url }}">{{ current.title }}</a>
-            </li>
-        {% endfor %}
-        </ul>
+
+        <h2>List of Frequently Asked questions</h2>
+        {% include faq.html %}
     </div>
 </div>

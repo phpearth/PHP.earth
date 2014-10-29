@@ -1,0 +1,13 @@
+{% for group in site.groups %}
+    <h3>{{ group.title }}</h3>
+
+    <ul class="side-nav">
+        {% for current in site.faq %}
+            {% if group.slug == current.group  %}
+                <li{% if current.title == page.title %} class="active"{% endif %}>
+                    <a href="{{ current.url }}">{{ current.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+{% endfor %}
