@@ -1,13 +1,18 @@
+<dl class="accordion" data-accordion>
 {% for group in site.groups %}
-    <h3>{{ group.title }}</h3>
-
-    <ul class="side-nav">
-        {% for current in site.faq %}
-            {% if group.slug == current.group  %}
-                <li{% if current.title == page.title %} class="active"{% endif %}>
-                    <a href="{{ current.url }}">{{ current.title }}</a>
-                </li>
-            {% endif %}
-        {% endfor %}
-    </ul>
+    <dd class="accordion-navigation">
+        <a href="#{{ group.slug }}">{{ group.title }}</a>
+        <div id="{{ group.slug }}" class="content">
+            <ul class="side-nav">
+            {% for current in site.faq %}
+                {% if group.slug == current.group  %}
+                    <li{% if current.title == page.title %} class="active"{% endif %}>
+                        <a href="{{ current.url }}">{{ current.title }}</a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+        </div>
+    </dd>
 {% endfor %}
+</dl>
