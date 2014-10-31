@@ -16,6 +16,7 @@ layout: foundation-bootstrap
                 <li{% if page.origin == 'getting-started' %} class="active"{% endif %}><a href="/"><i class="fa fa-play"></i> Getting started</a></li>
                 <li{% if page.origin == 'faq' %} class="active"{% endif %}><a href="/faq/"><i class="fa fa-fire"></i> our FAQ ({{ site.faq | size }})</a></li>
                 <li{% if page.origin == 'admins' %} class="active"{% endif %}><a href="/admins.html"><i class="fa fa-shield"></i> our Staff</a></li>
+                <li{% if page.origin == 'contribute' %} class="active"{% endif %}><a href="/contribute.html"><i class="fa fa-github-square"></i> contribute</a></li>
                 <li><a href="https://www.facebook.com/groups/{{ site.fb-group-id }}/"><i class="fa fa-send"></i> to our Facebook Group</a></li>
             </ul>
         </section>
@@ -26,10 +27,10 @@ layout: foundation-bootstrap
 {{ content }}
 </div>
 
-<footer style="background-color:black; color:white; padding-top:8px; padding-bottom:8px;">
+<footer style="background-color:black; color:white; padding-top:8px; padding-bottom:8px; text-align:center;">
     <div class="row">
         <div class="large-12 column" style="font-size:9pt;">
-            <a href="https://github.com/wwphp-fb/">GitHub</a> | <a href="/contribute.html">Contribute</a> | &copy;2014 Administrators of the International PHP Facebook Group
+            &copy;2014 Administrators of the International PHP Facebook Group
         </div>
     </div>
 </footer>

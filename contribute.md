@@ -13,57 +13,76 @@ og_image: "assets/img/elephpant.png"
 
     <h1 style="font-family:Audiowide;text-align:center">Contribute</h1>
 
-    <p>Contributing to open source projects can and should be first of all fun but it requires also lots of technical skills, patience,
-    ability to work with others, constant adaptations and many commitments as well.</p>
-
-    <p>Helping others and sharing PHP content in our Facebook group is definitely respectful and awesome contribution to the PHP community and we cannot properly
-    thank each and everyone that is dedicating their time and knowledge in helping in this Facebook group, so we have made this special section where
-    your contribution can get noted on this page as well.</p>
-
-    <h2>PHP FAQ</h2>
-
-    <p>Another important section of this group is PHP-FAQ. What you can do to help out?</p>
-
-    <p>You can go through the <a href="https://github.com/wwphp-fb/php-faq/issues">open issues</a> on GitHub directly or go through the
-    <a href="/faq">list of frequently asked questions</a> and check if there are missing information, missing questions that should be pointed
-    or fix typos.</p>
+    <p>Contributing to open source projects is awesome and altruistic. It can and should be first of all fun but it requires
+    also lots of technical skills, patience, ability to work with others, constant adaptations and many commitments as well.</p>
 
     <h2>Contributors</h2>
 
-    <p>Special credits for contributions to this page goes to these awesome people:</p>
+    <p>Special credits for contributions to this page:</p>
 
     <div id="contribute-contributors"></div>
 
-    <h2>How to contribute?</h2>
+    <h2>How you can help?</h2>
+
+    <h3>Share your knowledge and PHP content in the group</h3>
+
+    <p>Helping others and sharing PHP content in our Facebook group is definitely respectful and awesome contribution to the PHP community.
+    We <strong>really</strong> appreciate your efforts and help here.</p>
+
+    <h3>PHP FAQ</h3>
+
+    <p>Another important section of this group is PHP-FAQ. How to contribute to PHP-FAQ?</p>
+
+    <p>You can go through <a href="https://github.com/wwphp-fb/php-faq/issues" rel="nofollow">open issues</a> on GitHub directly
+    or go through <a href="/faq">list of frequently asked questions</a> and check if there are missing information, missing questions
+    that should be pointed out or fix typos.</p>
+
+    <div class="panel callout radius" style="margin-top: 50px"><img src="/assets/img/octocat.png" alt="Octocat" />Go to GitHub, fork
+    the <a href="https://github.com/wwphp-fb" rel="nofollow">wanted project</a>, send pull request and get yourself on the list of
+    contributors as well.</div>
+
+    <strong>Contributing procedure</strong>
+
+    <p>Before contributing to any open source project on GitHub get yourself familiar with <a href="/faq/git-introduction/">Git version
+    control system usage</a> and how to use <a href="https://help.github.com/">GitHub</a>.<p>
+
+    <p>GitHub provides also built in editor on GitHub so editing content should be quite simple. You will get used to it in no time.
+    Otherwise below is also a more general forking and committing changes procedure with Git and GitHub which gives you more control
+    over your changes.</p>
 
     <ul>
-    <li>Fork wanted project from <a href="https://github.com/wwphp-fb">GitHub</a></li>
-    <li>Setup your local environment:
-    {% highlight bash %}$ git clone git@github.com:your_username/php-faq.git{% endhighlight %}
-    </li>
-    <li>Set up your repository and set a remote branch for future updates:
+
+        <li>Fork wanted project from <a href="https://github.com/wwphp-fb" rel="nofollow">GitHub</a></li>
+
+        <li>Setup your local environment:
+            {% highlight bash %}$ git clone git@github.com:your_username/php-faq.git{% endhighlight %}
+        </li>
+
+        <li>Set up your repository and set a remote branch for future updates:
 
 {% highlight bash %}
 $ git add remote upstream git://github.com/wwphp-fb/php-faq.git
 $ git config branch.master.remote upstream
 {% endhighlight %}
 
-    That way you can update your repository (when the upstream gets updated) and automatically pull upstream commits:
+        That way you can update your repository (when the upstream gets updated) and automatically pull upstream commits:
 
-    {% highlight bash %}$ git pull{% endhighlight %}
-    </li>
+        {% highlight bash %}$ git pull{% endhighlight %}
+        </li>
 
-    <li>Create a new Git branch for instance patch-1:
-    {% highlight bash %}$ git checkout -b patch-1{% endhighlight %}
+        <li>Create a new Git branch for instance patch-1:
+            {% highlight bash %}$ git checkout -b patch-1{% endhighlight %}
 
-    This ensures that your repository will not need rebasing when the upstream gets updated.
-    </li>
-    <li>Commit and push to your GitHub repository
+            This ensures that your repository will not need rebasing when the upstream gets updated.
+        </li>
+
+        <li>Commit and push to your GitHub repository
 {% highlight bash %}$ git add .
 $ git commit -m "my new changes"
 $ git push origin{% endhighlight %}
-    </li>
-    <li>Send a pull request</li>
+        </li>
+
+        <li>Send a pull request</li>
     </ul>
     </div>
 </div>
