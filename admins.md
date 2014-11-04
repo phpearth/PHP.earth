@@ -1,6 +1,6 @@
 ---
 layout: admins
-title: "Getting started"
+title: "Administrators of PHP Facebook Group"
 origin: "admins"
 ---
 <div style="text-align:center;">
