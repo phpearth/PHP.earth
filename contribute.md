@@ -13,7 +13,7 @@ og_image: "assets/img/elephpant.png"
 
     <h1 style="font-family:Audiowide;text-align:center">Contribute</h1>
 
-    <p>Contributing to open source projects is awesome and altruistic. It can and should be first of all fun but it requires
+    <p>Contributing to open source projects is awesome, altruistic and is changing this world. It can and should be first of all fun but it requires
     also lots of technical skills, patience, ability to work with others, constant adaptations and many commitments as well.</p>
 
     <h2>Contributors</h2>
