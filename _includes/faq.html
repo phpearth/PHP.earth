@@ -1,7 +1,7 @@
 <dl class="accordion" data-accordion>
 {% for group in site.groups %}
-    <dd class="accordion-navigation">
-        <a href="#{{ group.slug }}">{{ group.title }}</a>
+    <dd class="accordion-navigation{% if page.group == group.slug %} active{% endif %}">
+        <a href="#{{ group.slug }}"><i class="fa fa-arrow-right"></i><i class="fa fa-arrow-down"></i> {{ group.title }}</a>
         <div id="{{ group.slug }}" class="content{% if page.group == group.slug %} active{% endif %}">
             <ul class="side-nav">
             {% for current in site.faq %}

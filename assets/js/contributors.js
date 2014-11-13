@@ -38,7 +38,7 @@
                         contributors.push(new Array(data_2.data[i].login, data_2.data[i].avatar_url, data_2.data[i].contributions));
                     }
                     for ( var i = 0; i < contributors.length; i++ ) {
-                        $ul.append(['<li><a href="https://github.com/', contributors[i][0], '" target="_blank"><img src="', contributors[i][1], '" width="75" /> ', contributors[i][0], '</a> (commits: ', contributors[i][2], ')</li>'].join(''));
+                        $ul.append(['<li><a class="th" href="https://github.com/', contributors[i][0], '" target="_blank"><img src="', contributors[i][1], '" width="75" /></a> <a href="https://github.com/', contributors[i][0], '" target="_blank">', contributors[i][0], '</a> (commits: ', contributors[i][2], ')</li>'].join(''));
                     }
                     $contributors.html($ul);
                 } else {

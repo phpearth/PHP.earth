@@ -24,12 +24,12 @@ og_image: "assets/img/elephpant.png"
 
     <h2>How you can help?</h2>
 
-    <h3>Share your knowledge and PHP content in the group</h3>
+    <h3>1. Share your knowledge and PHP content in the group</h3>
 
     <p>Helping others and sharing PHP content in our Facebook group is definitely respectful and awesome contribution to the PHP community.
     We <strong>really</strong> appreciate your efforts and help here.</p>
 
-    <h3>PHP FAQ</h3>
+    <h3>2. PHP FAQ</h3>
 
     <p>Another important section of this group is PHP-FAQ. How to contribute to PHP-FAQ?</p>
 
@@ -85,7 +85,7 @@ $ git push origin{% endhighlight %}
         <li>Send a pull request</li>
     </ul>
 
-    <h3>Send suggestions for micro events</h3>
+    <h3>3. Send suggestions for micro events</h3>
 
     <p>Every week or two we have special topics to gain more exposure or more thorough discussions about topics that are either important for PHP community or the group in general. Micro events are pinned on top of the group until the next micro event occurs. You are welcome to send your suggestions and open a ticket at Github <a href="https://github.com/wwphp-fb/wwphp-fb.github.io" rel="nofollow">wwphp-fb.githu.io repository</a>.</p>
     </div>

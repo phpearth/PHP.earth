@@ -1,5 +1,5 @@
 h1 {
-    size: 2.5em;
+    size: 2em;
 }
 
 h2 {
@@ -7,7 +7,7 @@ h2 {
 }
 
 h3 {
-    size: 
+    size: 2em;
 }
 
 h4 {
@@ -15,5 +15,33 @@ h4 {
 }
 
 h5 {
-    size: 
+    size: 2em;
+}
+
+.accordion .fa-arrow-right{
+    display:inline;
+}
+.accordion .fa-arrow-down{
+    display:none;
+}
+.accordion .active .fa-arrow-right{
+    display:none;
+}
+.accordion .active .fa-arrow-down{
+    display:inline;
+}
+
+.accordion .accordion-navigation > a, .accordion dd > a {
+    background: none;
+}
+
+.accordion .accordion-navigation > a:hover,
+.accordion dd > a:hover,
+.accordion .accordion-navigation.active > a:hover,
+.accordion dd.active > a:hover {
+    background: #efefef;
+}
+
+.accordion .accordion-navigation.active > a, .accordion dd.active > a {
+    background: none;
 }
