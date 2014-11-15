@@ -1,6 +1,6 @@
 # World Wide Facebook Group GitHub Page
 
-This is the Github-Pages Repository of the international PHP Facebook Group. Site is built with GitHub Pages which use
+This is the GitHub-Pages Repository of the international PHP Facebook Group. Site is built with GitHub Pages which use
 Jekyll.
 
 ## Installation
