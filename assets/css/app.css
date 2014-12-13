@@ -45,3 +45,7 @@ h5 {
 .accordion .accordion-navigation.active > a, .accordion dd.active > a {
     background: none;
 }
+
+ul.rules {
+    list-style-type: none;
+}
