@@ -14,8 +14,10 @@ og_image: "assets/img/rules-large.png"
 <h2 style="text-align: center">Do's and don'ts of the PHP Facebook group</h2>
 
 <ul class="rules">
+{% assign counter = 0 %}
 {% for rule in site.data.rules.rules %}
-    <li>
+    {% assign counter=counter | plus:1 %}
+    <li id="rule-{{ counter }}">
         <h5 style="color:red"><i class="fa fa-circle-thin"></i> {{ rule.title }}</h5>
         <p>{{ rule.description }}</p>
     </li>
