@@ -2,8 +2,12 @@
 layout: default
 title: "Do's and don'ts of the PHP Facebook Group"
 origin: "rules"
-og_image: "assets/img/fb-link.png"
+og_image: "assets/img/rules-large.png"
 ---
+
+<div style="text-align:center;">
+    <img src="/assets/img/rules.png" alt="PHP Facebook Group Rules">
+</div>
 
 <h1 style="font-family:Audiowide;text-align:center">Group rules</h1>
 
