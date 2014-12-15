@@ -28,7 +28,7 @@ og_image: "assets/img/shield.jpg"
 
         <p>The following list contains the full set of all administrators of our group. The profiles of them are linked along the profile images:</p>
 
-        {% for current in site.admins %}
+        {% for current in site.data.admins %}
         {% if current.active %}
         <div class="row" style="magin-top:8px; margin-bottom:8px;">
         <div class="large-2 columns" style="text-align:center;">
@@ -47,7 +47,7 @@ og_image: "assets/img/shield.jpg"
 
         <p>We also want to thank our previous administrator of this group.</p>
 
-        {% for current in site.admins %}
+        {% for current in site.data.admins %}
         {% if current.active == false %}
         <div class="row" style="magin-top:8px; margin-bottom:8px;">
         <div class="large-2 columns" style="text-align:center;">
