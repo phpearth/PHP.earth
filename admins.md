@@ -45,7 +45,7 @@ og_image: "assets/img/shield.jpg"
 
         <h4>Inactive administrators</h4>
 
-        <p>We also want to thank our previous administrator of this group.</p>
+        <p>We also want to thank our previous administrators of this group.</p>
 
         {% for current in site.data.admins %}
         {% if current.active == false %}
