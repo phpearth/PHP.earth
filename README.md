@@ -12,6 +12,14 @@ Install Jekyll according to the [offical documentation](http://jekyllrb.com/docs
 $ jekyll server --watch
 ```
 
+## Jekyll inside Vagrant box
+- Forward port 4000 (default port) to 4000
+- Use below provided command to run jekyll
+
+```bash
+$ jekyll server --watch --host 0.0.0.0
+```
+
 Preview of generated static files can than be viewed at http://localhost:4000
 
 ## For Contributors:
