@@ -13,8 +13,8 @@ $ jekyll server --watch
 ```
 
 ## Jekyll inside Vagrant box
-- Forward port 4000 (default port) to 4000
-- Use below provided command to run jekyll
+- Forward port 4000 (default port for Jekyll) to 4000
+- Start Jekyll server passing host parameter as 0.0.0.0
 
 ```bash
 $ jekyll server --watch --host 0.0.0.0
