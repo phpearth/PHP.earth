@@ -28,7 +28,7 @@ og_image: "assets/img/rules-large.png"
 
 Here we will try to explain in more details some of the most frequently asked questions and issues about these rules.
 
-<h3>My first language is not English. Why do I have to speak English language in your group? Isn't that discrimination towards other languages and cultures?</h3>
+<h3 id="faq-1">My first language is not English. Why do I have to speak English language in your group? Isn't that discrimination towards other languages and cultures?</h3>
 
 In this large [Facebook group](https://facebook.com/groups/2204685680) main speaking language and also language of the shared content
 should be English. Many users have asked before why other languages or localizations are not allowed here?
@@ -49,7 +49,7 @@ of communication.
 
 And besides all speaking English is also fun and you can improve your English skills.
 
-<h3>Why isn't each post approved by administrators? Facebook groups have that functionality.</h3>
+<h3 id="faq-2">Why isn't each post approved by administrators? Facebook groups have that functionality.</h3>
 
 Sometimes communication in the group goes in the wrong way, low quality is present,
 posts that does not relate to the context of the group are shared or some other
