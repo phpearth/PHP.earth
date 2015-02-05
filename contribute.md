@@ -61,7 +61,7 @@ og_image: "assets/img/elephpant.png"
         <li>Set up your repository and set a remote branch for future updates:
 
 {% highlight bash %}
-$ git add remote upstream git://github.com/wwphp-fb/php-faq.git
+$ git remote add upstream git://github.com/wwphp-fb/php-faq.git
 $ git config branch.master.remote upstream
 {% endhighlight %}
 
@@ -69,6 +69,14 @@ $ git config branch.master.remote upstream
 
         {% highlight bash %}$ git pull{% endhighlight %}
         </li>
+        
+        <li>
+        Verify that you have all the latest commits available
+            {% highlight bash %}$ git log --oneline -3{% endhighlight %}
+            
+            Cross-check the topmost commit log with the one in main repository and make sure everything is in sync.
+        </li>
+        
 
         <li>Create a new Git branch for instance patch-1:
             {% highlight bash %}$ git checkout -b patch-1{% endhighlight %}
