@@ -1,5 +1,5 @@
-[submodule "_faq"]
-	path = _faq
+[submodule "_resources"]
+	path = _resources
 	url = https://github.com/wwphp-fb/php-resources.git
 [submodule "_data/rules"]
 	path = _data/rules
