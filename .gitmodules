@@ -1,6 +1,6 @@
 [submodule "_faq"]
 	path = _faq
-	url = https://github.com/wwphp-fb/php-faq.git
+	url = https://github.com/wwphp-fb/php-resources.git
 [submodule "_data/rules"]
 	path = _data/rules
 	url = https://github.com/wwphp-fb/group-rules

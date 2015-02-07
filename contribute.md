@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Contribute to wwphp-fb.github.io and FAQ"
+title: "Get involved and contribute to World Wide PHP Facebook Group"
 origin: "contribute"
 og_image: "assets/img/elephpant.png"
 ---
@@ -29,13 +29,13 @@ og_image: "assets/img/elephpant.png"
     <p>Helping others and sharing PHP content in our Facebook group is definitely respectful and awesome contribution to the PHP community.
     We <strong>really</strong> appreciate your efforts and help here.</p>
 
-    <h3>2. PHP FAQ</h3>
+    <h3>2. PHP Resources</h3>
 
-    <p>Another important section of this group is PHP-FAQ. How to contribute to PHP-FAQ?</p>
+    <p>Another important section of this group is PHP Resources. How to contribute to PHP Resources?</p>
 
-    <p>You can go through <a href="https://github.com/wwphp-fb/php-faq/issues" rel="nofollow">open issues</a> on GitHub directly
-    or go through <a href="/faq">list of frequently asked questions</a> and check if there are missing information, missing questions
-    that should be pointed out or fix typos.</p>
+    <p>You can go through <a href="https://github.com/wwphp-fb/php-resources/issues" rel="nofollow">open issues</a> on GitHub directly
+    or go through <a href="/faq">list of frequently asked questions</a>, <a href="/tutorials">tutorials</a> or <a href="/articles">articles</a>
+    and check if there are missing information that should be pointed out or fix typos.</p>
 
     <div class="panel callout radius" style="margin-top: 50px"><img src="/assets/img/octocat.png" alt="Octocat" />Go to GitHub, fork
     the <a href="https://github.com/wwphp-fb" rel="nofollow">wanted project</a>, send pull request and get yourself on the list of
@@ -55,13 +55,13 @@ og_image: "assets/img/elephpant.png"
         <li>Fork wanted project from <a href="https://github.com/wwphp-fb" rel="nofollow">GitHub</a></li>
 
         <li>Setup your local environment:
-            {% highlight bash %}$ git clone git@github.com:your_username/php-faq.git{% endhighlight %}
+            {% highlight bash %}$ git clone git@github.com:your_username/php-resources.git{% endhighlight %}
         </li>
 
         <li>Set up your repository and set a remote branch for future updates:
 
 {% highlight bash %}
-$ git remote add upstream git://github.com/wwphp-fb/php-faq.git
+$ git remote add upstream git://github.com/wwphp-fb/php-resources.git
 $ git config branch.master.remote upstream
 {% endhighlight %}
 
