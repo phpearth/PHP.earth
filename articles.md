@@ -13,7 +13,7 @@ group: false
 <h1 style="font-family:Audiowide;text-align:center">PHP Articles</h1>
 
 <ul>
-{% for current in site.faq %}
+{% for current in site.resources %}
     {% if "articles" == current.group  %}
         <li>
             <a href="{{ current.url }}">{{ current.title }}</a>

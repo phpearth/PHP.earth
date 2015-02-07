@@ -4,7 +4,7 @@
         <a href="#{{ group.slug }}"><i class="fa fa-arrow-right"></i><i class="fa fa-arrow-down"></i> {{ group.title }}</a>
         <div id="{{ group.slug }}" class="content{% if page.group == group.slug %} active{% endif %}">
             <ul class="side-nav">
-            {% for current in site.faq %}
+            {% for current in site.resources %}
                 {% if group.slug == current.group  %}
                     <li{% if current.title == page.title %} class="active"{% endif %}>
                         <a href="{{ current.url }}">{{ current.title }}</a>
