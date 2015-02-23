@@ -8,7 +8,7 @@ layout: default
         </div>
         
         <ul class="side-nav">
-        {% for element in page.submenu %}
+        {% for element in page.menu %}
             <li><a href="{{ element.href }}">{{ element.title }}</a></li>
         {% endfor %}
         </ul>
@@ -16,7 +16,7 @@ layout: default
     <div class="large-8 columns" style="padding-top:40px;">
         <h1>{{ page.title }}</h1>
 
-        <div style="margin-bottom: 15px;text-align: center; font-size: 10pt;"><strong>{{ page.read_time }} read</strong>; updated: {{ page.updated }}  </div>
+        <div style="margin-bottom: 15px;text-align: center; font-size: 10pt;"><strong>{{ page.read_time }} read</strong>; updated: {{ page.updated }}{% if page.version %}; version: {{ page.version }}{% endif%}</div>
 
         {{ content }}
 
