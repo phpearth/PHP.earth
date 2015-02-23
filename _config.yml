@@ -14,7 +14,16 @@ defaults:
             og_image: "assets/img/fb-link.png"
             group: "general"
 
-exclude: [ 'Gemfile', 'README.md', 'LICENSE', '_faq/_template.md', '_faq/README.md', '_faq/LICENSE', '_faq/CONTRIBUTING.md' ]
+exclude:
+    - "Gemfile"
+    - "README.md"
+    - "LICENSE"
+    - "_resources/_template.md"
+    - "_resources/README.md"
+    - "_resources/LICENSE"
+    - "_resources/CONTRIBUTING.md"
+    - "_resources/generator.php"
+    - "_resources/groups.yml"
 
 collections:
     resources:
@@ -28,3 +37,5 @@ gems:
     - jekyll-sitemap
 
 markdown: redcarpet
+redcarpet:
+    extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]

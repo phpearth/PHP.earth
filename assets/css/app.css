@@ -49,3 +49,11 @@ h5 {
 ul.rules {
     list-style-type: none;
 }
+
+code {
+    background: none;
+    border: 0;
+    padding: 0px;
+    font-size: 10pt;
+    font-family: "Lucida Console", Monaco, monospace;
+}
