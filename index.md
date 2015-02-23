@@ -19,32 +19,26 @@ og_image: "assets/img/fb-link.png"
 
 <div class="row">
     <div class="large-4 columns">
-        <h5 style="color:red"><a href="/tutorials"><i class="fa fa-circle-thin"></i> PHP Tutorials</a></h5>
-        <p>
-            This section includes some most wanted tutorials which will help you get started with PHP or learn something new.
-        </p>
+        <h5><a href="/tutorials"><i class="fa fa-circle-thin"></i> PHP Tutorials</a></h5>
+        <p>This section includes some most wanted tutorials which will help you get started with PHP or learn something new.</p>
     </div>
     <div class="large-4 columns">
-        <h5 style="color:red"><a href="/faq"><i class="fa fa-circle-thin"></i> Frequently asked PHP questions</strong></a></h5>
-        <p>
-            We have prepared a set of most frequently asked questions with as qualified and unbiased as possible answers.
-        </p>
+        <h5><a href="/faq"><i class="fa fa-circle-thin"></i> Frequently asked PHP questions</a></h5>
+        <p>We have prepared a set of most frequently asked questions with as qualified and unbiased as possible answers.</p>
     </div>
     <div class="large-4 columns">
-        <h5 style="color:red"><a href="/articles"><i class="fa fa-circle-thin"></i> PHP articles</a></h5>
-        <p>
-            Sometimes you want to learn something more advanced about PHP. PHP articles are here to pass on some more advanced topics.
-        </p>
+        <h5><a href="/articles"><i class="fa fa-circle-thin"></i> PHP articles</a></h5>
+        <p>Sometimes you want to learn something more advanced about PHP. PHP articles are here to pass on some more advanced topics.</p>
     </div>
 </div>
 
 <div class="row">
     <div class="large-12 columns" style="margin-top:16px; margin-bottom:16px; text-align:center;">
-            have a good time at our group and don't be shy to ask your question.
+        have a good time at our group and don't be shy to ask your question.
     </div>
 </div>
 <div class="row">
     <div class="large-12 columns" style="margin-top:16px; margin-bottom:20px; text-align:center;">
-            &laquo;Stay hungry, stay foolish.&raquo; <small><cite><a href="http://news.stanford.edu/news/2005/june15/jobs-061505.html">2005 - Steve Jobs &dagger;</a></cite></small>
+        &laquo;Stay hungry, stay foolish.&raquo; <small><cite><a href="http://news.stanford.edu/news/2005/june15/jobs-061505.html">2005 - Steve Jobs &dagger;</a></cite></small>
     </div>
 </div>
