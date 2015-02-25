@@ -57,3 +57,16 @@ code {
     font-size: 10pt;
     font-family: "Lucida Console", Monaco, monospace;
 }
+
+.highlight {
+    background-color: #f5f2f0;
+    line-height: 1.2;
+    margin: .5em 0;
+    padding: 1em;
+}
+
+pre[class*="language-"] {
+    padding: 0;
+    margin: 0;
+    overflow: auto;
+}

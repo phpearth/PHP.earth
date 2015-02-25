@@ -33,6 +33,13 @@ og_image: "assets/img/fb-link.png"
 </div>
 
 <div class="row">
+    <div class="large-12 columns" style="text-align:center;">
+        <h5><a href="/articles/php-best-practices"><i class="fa fa-circle-thin"></i> PHP Best Practices</a></h5>
+        <p>Currently there is no official or canonical way of using PHP but over the years of PHP development we can list some of the PHP best practices that can simplify and improve your coding at the same time. Here is a list of PHP best practices.</p>
+    </div>
+</div>
+
+<div class="row">
     <div class="large-12 columns" style="margin-top:16px; margin-bottom:16px; text-align:center;">
         have a good time at our group and don't be shy to ask your question.
     </div>
