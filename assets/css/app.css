@@ -53,10 +53,11 @@ ul.rules {
 code {
     border: 0;
     font-family: "Lucida Console", Monaco, monospace;
+    background-color: #f8f8f8;
 }
 
 .highlight {
-    background-color: #f5f2f0;
+    background-color: #f8f8f8;
     line-height: 1.2;
     margin: .5em 0;
     padding: 1em;
@@ -68,4 +69,5 @@ pre[class*="language-"] {
     padding: 0;
     margin: 0;
     overflow-x: auto;
+    background-color: #f8f8f8;    
 }
