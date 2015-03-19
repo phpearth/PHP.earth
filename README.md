@@ -1,5 +1,7 @@
 # World Wide Facebook Group GitHub Page
 
+[![Build Status](https://travis-ci.org/wwphp-fb/wwphp-fb.github.io.png?branch=master)](https://travis-ci.org/wwphp-fb/wwphp-fb.github.io)
+
 This is the GitHub-Pages Repository of the international PHP Facebook Group. Site is built with GitHub Pages which use
 Jekyll.
 
