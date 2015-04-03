@@ -53,21 +53,24 @@ ul.rules {
 code {
     border: 0;
     font-family: "Lucida Console", Monaco, monospace;
-    background-color: #f8f8f8;
+    background: none;
+    padding: 0;
+}
+
+p code {
+    background-color: #f4f4f4;
+    padding: 0.3em;
 }
 
 .highlight {
-    background-color: #f8f8f8;
-    line-height: 1.2;
-    margin: .5em 0;
-    padding: 1em;
-    overflow-x: auto;
     font-size: 10pt;
+    background-color: #272822;
 }
 
-pre[class*="language-"] {
-    padding: 0;
-    margin: 0;
-    overflow-x: auto;
-    background-color: #f8f8f8;    
+pre[class*="language-"],
+pre {
+    padding: 1em;
+    margin: .5em 0;
+    overflow: auto;
+    background-color: #272822;
 }
