@@ -43,25 +43,6 @@ og_image: "assets/img/shield.jpg"
         {% endif %}
         {% endfor %}
 
-        <h4>Inactive administrators</h4>
-
-        <p>We also want to thank our previous administrators of this group.</p>
-
-        {% for current in site.data.admins %}
-        {% if current.active == false %}
-        <div class="row" style="magin-top:8px; margin-bottom:8px;">
-        <div class="large-2 columns" style="text-align:center;">
-        <a class="th" href="https://facebook.com/{{ current.profile-id }}">
-        <img src="http://graph.facebook.com/{{ current.profile-id }}/picture" alt="{{ current.name }}">
-        </a>
-        </div>
-        <div class="large-10 columns">
-        <h5>{{ current.name }}</h5>
-        </div>
-        </div>
-        {% endif %}
-        {% endfor %}
-
     </div>
 </div>
 

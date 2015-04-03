@@ -19,23 +19,8 @@
     active: true
 
 -
-    name: "Aasif Saifuddin Auvi"
-    profile-id: "asifsaif90"
-    active: false
-
--
     name: "Matthias Kaschubowski"
     profile-id: "matthias.kaschubowski"
-    active: true
-
--
-    name: "Sami Khan"
-    profile-id: "samikjr"
-    active: false
-
--
-    name: "Mansoor Ahmed"
-    profile-id: "MansoorA"
     active: true
 
 -
