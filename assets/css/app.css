@@ -3,19 +3,19 @@ h1 {
 }
 
 h2 {
-    size: em-calc(27);
+    size: 1.7em;
 }
 
 h3 {
-    size: 2em;
+    size: 1.5em;
 }
 
 h4 {
-    size. 2em;
+    size. 1.3em;
 }
 
 h5 {
-    size: 2em;
+    size: 1.1em;
 }
 
 .accordion .fa-arrow-right{
