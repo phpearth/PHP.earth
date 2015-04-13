@@ -13,12 +13,24 @@ layout: foundation-bootstrap
         <section class="top-bar-section">
             <!-- Right Nav Section -->
             <ul class="right">
-                <li{% if page.origin == 'getting-started' %} class="active"{% endif %}><a href="/"><i class="fa fa-play"></i> Getting started</a></li>
                 <li{% if page.origin == 'rules' %} class="active"{% endif %}><a href="/rules.html"><i class="fa fa-exclamation-triangle"></i> Rules</a></li>
-                <li{% if page.origin == 'faq' %} class="active"{% endif %}><a href="/faq/"><i class="fa fa-fire"></i> our FAQ ({{ site.resources | size }})</a></li>
                 <li{% if page.origin == 'admins' %} class="active"{% endif %}><a href="/admins.html"><i class="fa fa-shield"></i> our Staff</a></li>
                 <li{% if page.origin == 'contribute' %} class="active"{% endif %}><a href="/contribute.html"><i class="fa fa-github-square"></i> contribute</a></li>
                 <li><a href="https://www.facebook.com/groups/{{ site.fb-group-id }}/"><i class="fa fa-send"></i> to our Facebook Group</a></li>
+                <li class="has-form">
+                    <div id="search">
+                    <form action="/search.html" method="get">
+                    <div class="row collapse">
+                        <div class="large-8 small-9 columns">
+                            <input type="text" name="q" id="search-query" placeholder="Find stuff..." autocomplete="off">
+                        </div>
+                        <div class="large-4 small-3 columns">
+                            <input type="submit" class="button" value="Search">
+                        </div>
+                    </div>
+                    </form>
+                    </div>
+                </li>
             </ul>
         </section>
     </nav>

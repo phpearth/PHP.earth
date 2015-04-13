@@ -4,6 +4,27 @@ title: "Getting started"
 origin: "getting-started"
 og_image: "assets/img/fb-link.png"
 ---
+{% assign tutorials = 0 %}
+{% for current in site.resources %}
+    {% if "tutorials" == current.group %}
+        {% assign tutorials=tutorials | plus:1 %}
+    {% endif %}
+{% endfor%}
+
+{% assign faqs = 0 %}
+{% for current in site.resources %}
+    {% if "tutorials" != current.group and "articles" != current.group and "practices" != current.group %}
+        {% assign faqs=faqs | plus:1 %}
+    {% endif %}
+{% endfor%}
+
+{% assign articles = 0 %}
+{% for current in site.resources %}
+    {% if "articles" == current.group %}
+        {% assign articles=articles | plus:1 %}
+    {% endif %}
+{% endfor%}
+
 <div class="row">
     <div class="large-12 columns" style="margin-top:8px">
         <div style="text-align:center"><img src="assets/img/elephpant.png" alt="an elephant, trust me."></div>
@@ -19,15 +40,15 @@ og_image: "assets/img/fb-link.png"
 
 <div class="row">
     <div class="large-4 columns">
-        <h5><a href="/tutorials"><i class="fa fa-circle-thin"></i> PHP Tutorials</a></h5>
+        <h5><a href="/tutorials"><i class="fa fa-circle-thin"></i> PHP Tutorials ({{ tutorials }})</a></h5>
         <p>This section includes some most wanted tutorials which will help you get started with PHP or learn something new.</p>
     </div>
     <div class="large-4 columns">
-        <h5><a href="/faq"><i class="fa fa-circle-thin"></i> Frequently asked PHP questions</a></h5>
+        <h5><a href="/faq"><i class="fa fa-circle-thin"></i> Frequently asked questions ({{ faqs }})</a></h5>
         <p>We have prepared a set of most frequently asked questions with as qualified and unbiased as possible answers.</p>
     </div>
     <div class="large-4 columns">
-        <h5><a href="/articles"><i class="fa fa-circle-thin"></i> PHP articles</a></h5>
+        <h5><a href="/articles"><i class="fa fa-circle-thin"></i> PHP articles ({{ articles }})</a></h5>
         <p>Sometimes you want to learn something more advanced about PHP. PHP articles are here to pass on some more advanced topics.</p>
     </div>
 </div>
