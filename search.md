@@ -8,7 +8,6 @@ og_image: "assets/img/fb-link.png"
 <h1>Search results</h1>
 
 <section id="search-results">
-    <p>Search results</p>
     <div class="entries"></div>
 </section>
 
