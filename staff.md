@@ -13,7 +13,16 @@ og_image: "assets/img/shield.jpg"
         </div>
 
         {% for member in site.github.organization_members %}
-            <li><img src="{{ member.avatar_url }}" width="32" height="32" /> {{ member.login }}</li>
+            <div class="row" style="magin-top:8px; margin-bottom:8px;">
+                <div class="large-2 columns" style="text-align:center;">
+                    <a class="th" href="{{ member.html_url }}">
+                        <img src="{{ member.avatar_url }}" alt="{{ member.name }}">
+                    </a>
+                </div>
+                <div class="large-10 columns">
+                    <h5>{{ member.name }}</h5>
+                </div>
+            </div>
         {% endfor %}
     </div>
 </div>
