@@ -16,6 +16,14 @@ $ bundle install
 $ bundle exec jekyll serve --force_polling
 ```
 
+## Jekyll inside Vagrant box
+
+Forward port 4000 (default port) to 4000. Use below provided command to run jekyll:
+
+```bash
+$ jekyll serve --host 0.0.0.0
+```
+
 Preview of generated static files can than be viewed at http://localhost:4000
 
 ## Contributing:
