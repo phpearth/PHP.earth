@@ -31,8 +31,9 @@ admins:
     -
         name: "Suraj Kumar Adhikari"
         avatar: "https://avatars.githubusercontent.com/u/5631327?size=64"
-        facebook_id: "100000480144675"
         github: surajprogrammez
+        facebook_id: "100000480144675"
+        twitter: surajprogrammez
 
     -
         name: "Dennis Degryse"
