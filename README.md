@@ -13,7 +13,7 @@ Install Jekyll according to the [offical documentation](http://jekyllrb.com/docs
 ```bash
 $ git clone git://github.com/wwphp-fb/wwphp-fb.github.io --recursive
 $ bundle install
-$ bundle exec jekyll server --watch
+$ bundle exec jekyll serve --force_pooling
 ```
 
 Preview of generated static files can than be viewed at http://localhost:4000
