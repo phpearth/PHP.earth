@@ -29,7 +29,6 @@ og_image: "assets/img/shield.jpg"
         <p>The following list contains the full set of all administrators of our group. The profiles of them are linked along the profile images:</p>
 
         {% for current in site.data.admins %}
-        {% if current.active %}
         <div class="row" style="magin-top:8px; margin-bottom:8px;">
         <div class="large-2 columns" style="text-align:center;">
         <a class="th" href="https://facebook.com/{{ current.profile-id }}">
@@ -40,7 +39,6 @@ og_image: "assets/img/shield.jpg"
         <h5>{{ current.name }}</h5>
         </div>
         </div>
-        {% endif %}
         {% endfor %}
 
     </div>

@@ -1,0 +1,55 @@
+admins:
+    -
+        name: "Peter Kokot"
+        avatar: "https://avatars.githubusercontent.com/u/1614009?size=64"
+        github: "peterkokot"
+        facebook_id: 1767364038
+        twitter: peter_kokot
+
+    -
+        name: "Tony Sodano"
+        avatar: "https://avatars.githubusercontent.com/u/3932300?size=64"
+        facebook_id: "660520108"
+        github: tonysodano
+
+    -
+        name: "Asad Hasan"
+        avatar: http://graph.facebook.com/541500049/picture?type=large&width=64&height=64
+        facebook_id: "541500049"
+
+    -
+        name: "Ahsan Ali"
+        avatar: http://graph.facebook.com/100000064018416/picture?type=large&width=64&height=64
+        facebook_id: "100000064018416"
+
+    -
+        name: "Matthias Kaschubowski"
+        avatar: "https://avatars.githubusercontent.com/u/2115919?size=64"
+        facebook_id: "100001235041928"
+        github: Golpha
+
+    -
+        name: "Suraj Kumar Adhikari"
+        avatar: "https://avatars.githubusercontent.com/u/5631327?size=64"
+        facebook_id: "100000480144675"
+        github: surajprogrammez
+
+    -
+        name: "Dennis Degryse"
+        avatar: "https://avatars.githubusercontent.com/u/475980?size=64"
+        facebook_id: "1306052220"
+        github: dennisdegryse
+
+documentation:
+
+    -
+        name: "Murthy Bhat"
+        avatar: https://avatars.githubusercontent.com/u/4547451?size=64
+        facebook_id: "100008471584795"
+        github: "aaryadev"
+
+    -
+        name: "Samundra Shrestha"
+        avatar: https://avatars.githubusercontent.com/u/760855?size=64
+        facebook_id: "597458256"
+        github: samundra
