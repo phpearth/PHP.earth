@@ -4,7 +4,7 @@ title: "PHP Facebook Group Team"
 origin: "staff"
 og_image: "assets/img/shield.jpg"
 redirect_from:
-    - "/admins"
+    - "/admins/"
     - "admins.html"
 ---
 
