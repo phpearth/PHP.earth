@@ -1,56 +1,72 @@
-admins:
-    -
-        name: "Peter Kokot"
-        avatar: "https://avatars.githubusercontent.com/u/1614009?size=64"
-        github: "peterkokot"
-        facebook_id: 1767364038
-        twitter: peter_kokot
+-
+    name: "Peter Kokot"
+    avatar: "https://avatars.githubusercontent.com/u/1614009?size=64"
+    github: "peterkokot"
+    facebook_id: 1767364038
+    twitter: peter_kokot
+    teams:
+        - admin
+        - docs
 
-    -
-        name: "Tony Sodano"
-        avatar: "https://avatars.githubusercontent.com/u/3932300?size=64"
-        facebook_id: "660520108"
-        github: tonysodano
+-
+    name: "Tony Sodano"
+    avatar: "https://avatars.githubusercontent.com/u/3932300?size=64"
+    github: tonysodano
+    facebook_id: "660520108"
+    teams:
+        - admin
 
-    -
-        name: "Asad Hasan"
-        avatar: http://graph.facebook.com/541500049/picture?type=large&width=64&height=64
-        facebook_id: "541500049"
+-
+    name: "Asad Hasan"
+    avatar: http://graph.facebook.com/541500049/picture?type=large&width=64&height=64
+    facebook_id: "541500049"
+    teams:
+        - admin
 
-    -
-        name: "Ahsan Ali"
-        avatar: http://graph.facebook.com/100000064018416/picture?type=large&width=64&height=64
-        facebook_id: "100000064018416"
+-
+    name: "Ahsan Ali"
+    avatar: http://graph.facebook.com/100000064018416/picture?type=large&width=64&height=64
+    facebook_id: "100000064018416"
+    teams:
+        - admin
 
-    -
-        name: "Matthias Kaschubowski"
-        avatar: "https://avatars.githubusercontent.com/u/2115919?size=64"
-        facebook_id: "100001235041928"
-        github: Golpha
+-
+    name: "Matthias Kaschubowski"
+    avatar: "https://avatars.githubusercontent.com/u/2115919?size=64"
+    github: Golpha
+    facebook_id: "100001235041928"
+    teams:
+        - admin
 
-    -
-        name: "Suraj Kumar Adhikari"
-        avatar: "https://avatars.githubusercontent.com/u/5631327?size=64"
-        github: surajprogrammez
-        facebook_id: "100000480144675"
-        twitter: surajprogrammez
+-
+    name: "Suraj Kumar Adhikari"
+    avatar: "https://avatars.githubusercontent.com/u/5631327?size=64"
+    github: surajprogrammez
+    facebook_id: "100000480144675"
+    twitter: surajprogrammez
+    teams:
+        - admin
 
-    -
-        name: "Dennis Degryse"
-        avatar: "https://avatars.githubusercontent.com/u/475980?size=64"
-        facebook_id: "1306052220"
-        github: dennisdegryse
+-
+    name: "Dennis Degryse"
+    avatar: "https://avatars.githubusercontent.com/u/475980?size=64"
+    github: dennisdegryse
+    facebook_id: "1306052220"
+    teams:
+        - admin
 
-documentation:
+-
+    name: "Murthy Bhat"
+    avatar: https://avatars.githubusercontent.com/u/4547451?size=64
+    github: "aaryadev"
+    facebook_id: "100008471584795"
+    teams:
+        - docs
 
-    -
-        name: "Murthy Bhat"
-        avatar: https://avatars.githubusercontent.com/u/4547451?size=64
-        facebook_id: "100008471584795"
-        github: "aaryadev"
-
-    -
-        name: "Samundra Shrestha"
-        avatar: https://avatars.githubusercontent.com/u/760855?size=64
-        facebook_id: "597458256"
-        github: samundra
+-
+    name: "Samundra Shrestha"
+    avatar: https://avatars.githubusercontent.com/u/760855?size=64
+    github: samundra
+    facebook_id: "597458256"
+    teams:
+        - docs

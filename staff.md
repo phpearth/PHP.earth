@@ -3,6 +3,9 @@ layout: default
 title: "PHP Facebook Group Team"
 origin: "team"
 og_image: "assets/img/shield.jpg"
+redirect_from:
+    - "/admins"
+    - "admins.html"
 ---
 
 <div class="row" style="padding-top:8px">
@@ -28,7 +31,8 @@ og_image: "assets/img/shield.jpg"
 
         <p>The following list contains the full set of all administrators of our group.</p>
 
-        {% for current in site.data.team.admins %}
+        {% for current in site.data.team %}
+        {% if current.teams contains 'admin' %}
         <div class="row" style="magin-top:8px; margin-bottom:8px;">
         <div class="large-2 columns" style="text-align:center;">
             <img src="{{ current.avatar }}" alt="{{ current.name }}" class="th">
@@ -47,13 +51,15 @@ og_image: "assets/img/shield.jpg"
             {% endif %}
         </div>
         </div>
+        {% endif %}
         {% endfor %}
 
         <h4>Our PHP Resources Core Team</h4>
 
         <p>Maintaining FAQ, tutorials and other documentation for the group is a hard and never ending work indeed. Maintaining this part of the group is done mainly by:</p>
 
-        {% for current in site.data.team.documentation %}
+        {% for current in site.data.team %}
+        {% if current.teams contains 'docs' %}
         <div class="row" style="magin-top:8px; margin-bottom:8px;">
         <div class="large-2 columns" style="text-align:center;">
             <img src="{{ current.avatar }}" alt="{{ current.name }}" class="th">
@@ -72,6 +78,7 @@ og_image: "assets/img/shield.jpg"
             {% endif %}
         </div>
         </div>
+        {% endif %}
         {% endfor %}
 
     </div>

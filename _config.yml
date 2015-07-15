@@ -37,6 +37,7 @@ fb-group-id: 2204685680
 
 gems:
     - 'jekyll-sitemap'
+    - 'jekyll-redirect-from'
 
 markdown: redcarpet
 redcarpet:
