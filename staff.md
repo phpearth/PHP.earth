@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PHP Facebook Group Team"
-origin: "team"
+origin: "staff"
 og_image: "assets/img/shield.jpg"
 redirect_from:
     - "/admins"
