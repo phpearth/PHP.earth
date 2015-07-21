@@ -1,24 +1,13 @@
 ---
 layout: default
 ---
-<div class="row" style="padding-top:8px">
-    <div class="large-4 columns">
-        <div style="text-align:center;">
-            <img src="/assets/img/fb-link.png" alt="PHP FAQ">
-        </div>
-        
-        <ul class="side-nav">
-        {% for element in page.menu %}
-            <li><a href="{{ element.href }}">{{ element.title }}</a></li>
-        {% endfor %}
-        </ul>
-    </div>
-    <div class="large-8 columns" style="padding-top:40px;">
-        <h1>{{ page.title }}</h1>
+<div class="row" style="padding-top:30px">
+    <div class="large-11 columns">
+        <h1 style="text-align:center;">{{ page.title }}</h1>
 
-        <div style="margin-bottom: 15px;text-align: center; font-size: 10pt;"><strong>{{ page.read_time }} read</strong>; updated: {{ page.updated }}{% if page.version %}; version: {{ page.version }}{% endif%}</div>
+        <div style="margin-bottom: 20px;text-align: center;"><strong>{{ page.read_time }} read</strong>; updated: {{ page.updated }}</div>
 
-        {{ content }}
+        <div class="article">{{ content }}</div>
 
         <div class="panel callout radius" style="margin-top: 50px"><img src="/assets/img/octocat.png" alt="GitHub Octocat" />Found a typo? Something wrong with this content? Just <a href="https://github.com/wwphp-fb/php-resources/edit/master/{{ page.relative_path | remove: '_resources/' }}" rel="nofollow">fork and edit it</a>.</div>
     </div>

@@ -25,7 +25,7 @@ redirect_from:
 
         <h4>Can administrators do what they want?</h4>
 
-        <p>No, trully not. We are a kind of a collective and work together. Things that may have a deep impact to our community or the staff themself would be discussed and decided inside of this collective.</p>
+        <p>No, truly not. We are a kind of a collective and work together. Things that may have a deep impact to our community or the staff themselves would be discussed and decided inside of this collective.</p>
 
         <h4>Our Administrators</h4>
 
@@ -56,7 +56,7 @@ redirect_from:
 
         <h4>Our PHP Resources Core Team</h4>
 
-        <p>Maintaining FAQ, tutorials and other documentation for the group is a hard and never ending work indeed. Maintaining this part of the group is done mainly by:</p>
+        <p>Maintaining FAQ, articles and other documentation for the group is a hard and never ending work indeed. Maintaining this part of the group is done mainly by:</p>
 
         {% for current in site.data.team %}
         {% if current.teams contains 'docs' %}

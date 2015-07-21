@@ -1,3 +1,7 @@
+body {
+    counter-reset: h2counter;
+}
+
 h1 {
     size: 2em;
 }
@@ -76,4 +80,38 @@ pre {
     margin: .5em 0;
     overflow: auto;
     background-color: #272822;
+}
+
+img[alt="PHP Best Practices"] { float: right; }
+
+.article h1 {
+    counter-reset: h2counter;
+}
+
+.article h2:before {
+    content: counter(h2counter) ".\0000a0\0000a0";
+    counter-increment: h2counter;
+    counter-reset: h3counter;
+}
+
+.article h3:before {
+    content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
+    counter-increment: h3counter;
+}
+
+.article ol > li {
+    counter-increment: root;
+}
+
+.article ol > li > ol {
+    counter-reset: subsection;
+    list-style-type: none;
+}
+
+.article ol > li > ol > li {
+    counter-increment: subsection;
+}
+
+.article ol > li > ol > li:before {
+    content: counter(root) "." counter(subsection) ". ";
 }
