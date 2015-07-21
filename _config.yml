@@ -10,14 +10,17 @@ defaults:
             path: ""
             collection: "resources"
         values:
-            layout: standalone-faq-entry
+            layout: article
             og_image: "assets/img/fb-link.png"
             group: "general"
 
 exclude:
+    - "CONTRIBUTING.md"
     - "Gemfile"
-    - "README.md"
     - "LICENSE"
+    - "README.md"
+    - "faq-facebook-document.html"
+    - "build.php"
     - "_resources/articles/_template.md"
     - "_resources/faq/_template.md"
     - "_resources/tutorials/_template.md"
@@ -31,7 +34,7 @@ collections:
     resources:
         output: true
         output_ext: html
-        permalink: /faq/:path/
+        permalink: /:path/
 
 fb-group-id: 2204685680
 

@@ -13,8 +13,17 @@ Install Jekyll according to the [offical documentation](http://jekyllrb.com/docs
 ```bash
 $ git clone git://github.com/wwphp-fb/wwphp-fb.github.io --recursive
 $ bundle install
+$ sudo sh -c "curl http://get.sensiolabs.org/melody.phar -o /usr/local/bin/melody && chmod a+x /usr/local/bin/melody"
+$ melody run build.php -vvv
 $ bundle exec jekyll serve --force_polling
 ```
+
+## Build
+
+when PHP Resources content changes, `build.php` file is used to generate an HTML file for updating
+the FAQ Facebook document in the [group][php-group] and index for searching on Jekyll page.
+
+[Build][build] script uses [melody][melody] - one file Composer scripts.
 
 ## Jekyll inside Vagrant box
 
@@ -37,3 +46,6 @@ You have to checkout and push all submodules and commit the commit level changes
 Contributions are welcome, but please open a feature request issue at this repository to grant as a discussion time before.
 
 [jekyll]: http://jekyllrb.com/
+[php-group]: https://www.facebook.com/groups/2204685680/
+[build]: https://github.com/wwphp-fb/php-resources/blob/master/generator.php
+[melody]: http://melody.sensiolabs.org/
