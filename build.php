@@ -17,7 +17,7 @@ $data = 'PHP Facebook group\'s frequently asked questions is a community driven 
 
 $index = [];
 
-foreach ($groups as $group) {
+foreach ($groups['faq'] as $group) {
     $data .= '<strong>' . $group['title'] . '</strong>';
     $data .= '<ul>';
 
@@ -60,6 +60,25 @@ foreach ($groups as $group) {
 
 $data .= '<strong>Want to get involved?</strong><br>We are always looking forward to see your contribution to this list of questions as well. How to contribute is mentioned in the <a href="http://wwphp-fb.github.io/contribute.html">contributing section</a> together with great people making this possible.<br>
 This work is licensed under a Creative Commons Attribution 4.0 International License.';
+
+// add articles to index
+$path = realpath('./_resources/articles');
+$objects = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($path, FilesystemIterator::SKIP_DOTS), RecursiveIteratorIterator::SELF_FIRST);
+foreach ($objects as $name => $object) {
+    $document = $parser->parse(file_get_contents($name));
+
+    if ($object->isFile()) {
+        $yaml = $document->getYAML();
+
+        $index[] = [
+            "title" => $yaml['title'],
+            "url"  => $yaml['permalink'],
+            'date' => '',
+            'body'    => '',
+            "categories" => []
+        ];
+    }
+}
 
 $indexData = ["entries" => $index];
 

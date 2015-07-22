@@ -6,7 +6,7 @@ og_image: "assets/img/fb-link.png"
 ---
 {% assign faqs = 0 %}
 {% for current in site.resources %}
-    {% if "tutorials" != current.group and "articles" != current.group and "practices" != current.group %}
+    {% if "articles" != current.group and "practices" != current.group %}
         {% assign faqs=faqs | plus:1 %}
     {% endif %}
 {% endfor%}
