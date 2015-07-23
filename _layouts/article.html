@@ -7,7 +7,7 @@ layout: default
 
         <div style="margin-bottom: 20px;text-align: center;"><strong>{{ page.read_time }} read</strong>; updated: {{ page.updated }}</div>
 
-        <div class="article">{{ content }}</div>
+        <div {% if page.group == 'articles' %}class="article"{% endif %}>{{ content }}</div>
 
         <div class="panel callout radius" style="margin-top: 50px"><img src="/assets/img/octocat.png" alt="GitHub Octocat" />Found a typo? Something wrong with this content? Just <a href="https://github.com/wwphp-fb/php-resources/edit/master/{{ page.relative_path | remove: '_resources/' }}" rel="nofollow">fork and edit it</a>.</div>
     </div>

@@ -9,14 +9,14 @@ og_image: "assets/img/fb-link.png"
     {% if "articles" != current.group and "practices" != current.group %}
         {% assign faqs=faqs | plus:1 %}
     {% endif %}
-{% endfor%}
+{% endfor %}
 
 {% assign articles = 0 %}
 {% for current in site.resources %}
     {% if "articles" == current.group %}
         {% assign articles=articles | plus:1 %}
     {% endif %}
-{% endfor%}
+{% endfor %}
 
 <div class="row">
     <div class="large-12 columns" style="margin-top:8px">
