@@ -22,14 +22,9 @@ exclude:
     - "faq-facebook-document.html"
     - "rules.html"
     - "build.php"
-    - "_resources/articles/_template.md"
-    - "_resources/faq/_template.md"
-    - "_resources/tutorials/_template.md"
     - "_resources/README.md"
     - "_resources/LICENSE"
     - "_resources/CONTRIBUTING.md"
-    - "_resources/generator.php"
-    - "_resources/groups.yml"
 
 collections:
     resources:
