@@ -95,6 +95,6 @@ $ git push origin{% endhighlight %}
 
     <h3>3. Send suggestions for micro events</h3>
 
-    <p>Every week or two we have special topics to gain more exposure or more thorough discussions about topics that are either important for PHP community or the group in general. Micro events are pinned on top of the group until the next micro event occurs. You are welcome to send your suggestions and open a ticket at GitHub <a href="https://github.com/wwphp-fb/wwphp-fb.github.io" rel="nofollow">wwphp-fb.githu.io repository</a>.</p>
+    <p>Every week or two we have special topics to gain more exposure or more thorough discussions about topics that are either important for PHP community or the group in general. Micro events are pinned on top of the group until the next micro event occurs. You are welcome to send your suggestions and open a ticket at <a href="https://github.com/wwphp-fb/wwphp-fb.github.io/issues" rel="nofollow">GitHub</a>.</p>
     </div>
 </div>
