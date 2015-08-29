@@ -12,10 +12,6 @@ faq:
         title: "Databases and PHP"
 
     -
-        slug: "oop"
-        title: "Object oriented programming"
-
-    -
         slug: "security"
         title: "Security and PHP"
 
