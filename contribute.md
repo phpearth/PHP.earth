@@ -35,7 +35,7 @@ og_image: "assets/img/elephpant.png"
 
     <p>You can go through <a href="https://github.com/wwphp-fb/php-resources/issues" rel="nofollow">open issues</a> on GitHub directly
     or go through <a href="/faq/">list of frequently asked questions</a>, <a href="/articles/">articles</a> or <a href="/php-best-practices/">
-    and check if there are missing information that should be pointed out or fix typos.</p>
+    check if there are missing information that should be pointed out or fix typos.</p>
 
     <div class="panel callout radius" style="margin-top: 50px"><img src="/assets/img/octocat.png" alt="Octocat" />Go to GitHub, fork
     the <a href="https://github.com/wwphp-fb" rel="nofollow">wanted project</a>, send pull request and get yourself on the list of
