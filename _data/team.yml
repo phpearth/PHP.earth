@@ -70,3 +70,11 @@
     facebook_id: "597458256"
     teams:
         - docs
+
+-
+    name: "Manuel Lemos"
+    avatar: "http://graph.facebook.com/628216645/picture?type=large&width=64&height=64"
+    github: manuellemos
+    facebook_id: "628216645"
+    teams:
+        - admin
