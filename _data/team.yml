@@ -78,3 +78,11 @@
     facebook_id: "628216645"
     teams:
         - admin
+
+-
+    name: "Samuel Adeshina"
+    avatar: "http://graph.facebook.com/100006865662389/picture?type=large&width=64&height=64"
+    github: Samshal
+    facebook_id: "100006865662389"
+    teams:
+        - admin
