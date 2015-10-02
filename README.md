@@ -20,7 +20,7 @@ $ bundle exec jekyll serve --force_polling
 
 ## Build
 
-when PHP Resources content changes, `build.php` file is used to generate an HTML file for updating
+When PHP Resources content changes, `build.php` file is used to generate an HTML file for updating
 the FAQ Facebook document in the [group][php-group] and index for searching on Jekyll page.
 
 [Build][build] script uses [melody][melody] - one file Composer scripts.
