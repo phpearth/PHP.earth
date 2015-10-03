@@ -24,6 +24,10 @@ faq:
         title: "Packages and dependency management"
 
     -
+        slug: "frameworks"
+        title: "PHP Frameworks"
+
+    -
         slug: "api"
         title: "API"
 
