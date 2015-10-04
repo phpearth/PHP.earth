@@ -32,6 +32,10 @@ faq:
         title: "API"
 
     -
+        slug: "oop"
+        title: "Object Oriented Programming"
+
+    -
         slug: "general"
         title: "General PHP questions"
 
