@@ -3,26 +3,26 @@ body {
 }
 
 h1 {
-    size: 2em;
+    font-size: 3em;
 }
 
 h2 {
     margin-top: 0.5rem;
-    size: 1.7em;
+    font-size: 2.2em;
 }
 
 h3 {
     margin-top: 0.5rem;
-    size: 1.5em;
+    font-size: 1.6em;
 }
 
 h4 {
     margin-top: 0.2rem;
-    size. 1.3em;
+    font-size: 1.2em;
 }
 
 h5 {
-    size: 1.1em;
+    font-size: 1.1em;
 }
 
 .accordion .fa-arrow-right{
@@ -70,14 +70,13 @@ p code {
 }
 
 .highlight {
-    font-size: 10pt;
     background-color: #272822;
 }
 
 pre[class*="language-"],
 pre {
     padding: 1em;
-    margin: .5em 0;
+    margin: .5em 0 1.25rem .5em;
     overflow: auto;
     background-color: #272822;
 }
