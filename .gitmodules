@@ -3,4 +3,4 @@
 	url = https://github.com/wwphp-fb/php-resources.git
 [submodule "_data/rules"]
 	path = _data/rules
-	url = https://github.com/wwphp-fb/group-rules
+	url = https://github.com/wwphp-fb/conduct.git
