@@ -69,6 +69,10 @@ p code {
     padding: 0.3em;
 }
 
+.highlight code {
+    color: #93a1a1;
+}
+
 .highlight {
     background-color: #272822;
 }
