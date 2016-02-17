@@ -34,7 +34,7 @@ og_image: "assets/img/elephpant.png"
     <p>Another important section of this group is PHP Resources. How to contribute to PHP Resources?</p>
 
     <p>You can go through <a href="https://github.com/wwphp-fb/php-resources/issues" rel="nofollow">open issues</a> on GitHub directly
-    or go through <a href="/faq/">list of frequently asked questions</a>, <a href="/articles/">articles</a> or <a href="/php-best-practices/">
+    or go through <a href="/faq/">list of frequently asked questions</a>, <a href="/articles/">articles</a> or <a href="/php-best-practices/">best practices</a>
     check if there are missing information that should be pointed out or fix typos.</p>
 
     <div class="panel callout radius" style="margin-top: 50px"><img src="/assets/img/octocat.png" alt="Octocat" />Go to GitHub, fork
