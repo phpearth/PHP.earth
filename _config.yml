@@ -10,7 +10,7 @@ defaults:
             path: ""
             collection: "resources"
         values:
-            layout: article
+            layout: "article"
             og_image: "assets/img/fb-link.png"
             group: "general"
 
@@ -20,7 +20,6 @@ exclude:
     - "LICENSE"
     - "README.md"
     - "faq-facebook-document.html"
-    - "rules.html"
     - "build.php"
     - "_resources/README.md"
     - "_resources/LICENSE"
