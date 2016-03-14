@@ -39,6 +39,10 @@ faq:
         slug: "general"
         title: "General PHP questions"
 
+    -
+        slug: "interoperability"
+        title: "Interoperability"
+
 articles:
     - slug: "articles"
     - title: "Articles"
