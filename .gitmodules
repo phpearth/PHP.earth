@@ -1,3 +1,6 @@
 [submodule "_resources"]
 	path = _resources
 	url = https://github.com/wwphp-fb/php-resources.git
+[submodule "conduct"]
+	path = conduct
+	url = https://github.com/wwphp-fb/conduct.git
