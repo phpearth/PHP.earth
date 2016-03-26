@@ -24,6 +24,7 @@ exclude:
     - "_resources/README.md"
     - "_resources/LICENSE"
     - "_resources/CONTRIBUTING.md"
+    - "conduct/README.md"
 
 collections:
     resources:

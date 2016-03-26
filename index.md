@@ -27,7 +27,7 @@ og_image: "assets/img/fb-link.png"
         most asked questions from our daily discoveries in our group, most wanted PHP
         tutorials, some PHP articles, information on how to get properly involved and a small
         overview who is representing the group as its staff.</p>
-        <p>But first, keep in mind that you accept the <a href="rules.html">following rules</a> of our group if you request a membership.</p>
+        <p>But first, keep in mind that you accept the <a href="/code-of-conduct/">following rules</a> of our group if you request a membership.</p>
     </div>
 </div>
 
