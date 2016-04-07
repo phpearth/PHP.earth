@@ -31,56 +31,25 @@ redirect_from:
 
         <p>The following list contains the full set of all administrators of our group.</p>
 
+        <ul class="medium-block-grid-3">
         {% for current in site.data.team %}
-        {% if current.teams contains 'admin' %}
-        <div class="row" style="magin-top:8px; margin-bottom:8px;">
-        <div class="large-2 columns" style="text-align:center;">
-            <img src="{{ current.avatar }}" alt="{{ current.name }}" class="th">
-        </div>
-        <div class="large-10 columns">
-            <h5>{{ current.name }}</h5>
+            <li>
+                <img src="{{ current.avatar }}" alt="{{ current.name }}" class="th left" style="margin-right: 10px">
 
-            {% if current.facebook_id %}
-                <a href="https://facebook.com/{{ current.facebook_id }}"><i class="fa fa-facebook-official"></i></a>
-            {% endif %}
-            {% if current.github %}
-                <a href="https://github.com/{{ current.github }}"><i class="fa fa-github"></i></a>
-            {% endif %}
-            {% if current.twitter %}
-                <a href="https://twitter.com/{{ current.twitter }}"><i class="fa fa-twitter"></i></a>
-            {% endif %}
-        </div>
-        </div>
-        {% endif %}
+                <h5>{{ current.name }}</h5>
+
+                {% if current.facebook_id %}
+                    <a href="https://facebook.com/{{ current.facebook_id }}"><i class="fa fa-facebook-official"></i></a>
+                {% endif %}
+                {% if current.github %}
+                    <a href="https://github.com/{{ current.github }}"><i class="fa fa-github"></i></a>
+                {% endif %}
+                {% if current.twitter %}
+                    <a href="https://twitter.com/{{ current.twitter }}"><i class="fa fa-twitter"></i></a>
+                {% endif %}
+            </li>
         {% endfor %}
-
-        <h4>Our PHP Resources Core Team</h4>
-
-        <p>Maintaining FAQ, articles and other documentation for the group is a hard and never ending work indeed. Maintaining this part of the group is done mainly by:</p>
-
-        {% for current in site.data.team %}
-        {% if current.teams contains 'docs' %}
-        <div class="row" style="magin-top:8px; margin-bottom:8px;">
-        <div class="large-2 columns" style="text-align:center;">
-            <img src="{{ current.avatar }}" alt="{{ current.name }}" class="th">
-        </div>
-        <div class="large-10 columns">
-            <h5>{{ current.name }}</h5>
-
-            {% if current.facebook_id %}
-                <a href="https://facebook.com/{{ current.facebook_id }}"><i class="fa fa-facebook-official"></i></a>
-            {% endif %}
-            {% if current.github %}
-                <a href="https://github.com/{{ current.github }}"><i class="fa fa-github"></i></a>
-            {% endif %}
-            {% if current.twitter %}
-                <a href="https://twitter.com/{{ current.twitter }}"><i class="fa fa-twitter"></i></a>
-            {% endif %}
-        </div>
-        </div>
-        {% endif %}
-        {% endfor %}
-
+        </ul>
     </div>
 </div>
 
