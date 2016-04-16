@@ -37,7 +37,7 @@ Warrants can only be people who are at least **3 months** in the group.
 
 Warrants have the right to "give up" and request the termination of the membership
 resurrection. The termination of the membership resurrection has no effect to the
-warrants and will enforce the initially punishment.
+warrants and will enforce the initial punishment.
 
 ## Rights of Administrators
 
@@ -60,7 +60,7 @@ To clarify that: A rule violation by the resurrected membership will end with th
 permanent removal of the warrant's membership and of the resurrected membership.
 
 There is no place for discussion. Since a lot must went wrong to get banned, a
-resurrection of an banned membership must have high costs.
+resurrection of a banned membership must have high costs.
 
 ```text
 Engaged 04/2016 by the Administrators of the
