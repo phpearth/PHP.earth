@@ -2,7 +2,7 @@
 <<<CONFIG
 packages:
     - "mnapoli/front-yaml: *"
-    - "symfony/yaml: ~2.7"
+    - "symfony/yaml: ~3.1"
 CONFIG;
 
 use Symfony\Component\Yaml\Yaml;
