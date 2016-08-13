@@ -49,7 +49,7 @@ for running a Docker container:
 
 ```bash
 $ docker run --rm --label=jekyll --volume=/path/to/wwphp-fb.github.io:/srv/jekyll -it -p 127.0.0.1:4000:4000 jekyll/jekyll:pages bash
-$ jekyll serve
+$ bundle exec jekyll build
 ```
 
 Preview of generated static files can than be viewed at `http://localhost:4000`.
