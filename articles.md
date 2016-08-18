@@ -6,11 +6,10 @@ origin: "articles"
 og_image: "assets/img/fb-link.png"
 group: false
 ---
-<div style="text-align:center;">
-    <img src="/assets/img/fb-link.png" alt="PHP FAQ">
-</div>
 
-<h1 style="font-family:Audiowide;text-align:center">PHP Articles</h1>
+![World Wide PHP FB Group](/assets/img/fb-link.png "World Wide PHP FB Group")
+
+# PHP Articles
 
 <ul>
 {% for current in site.resources %}

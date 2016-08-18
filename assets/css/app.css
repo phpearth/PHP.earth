@@ -4,6 +4,12 @@ body {
 
 h1 {
     font-size: 3em;
+    font-family: Audiowide;
+    text-align: center;
+}
+
+h1.article {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 }
 
 h2 {
@@ -25,17 +31,26 @@ h5 {
     font-size: 1.1em;
 }
 
-.accordion .fa-arrow-right{
-    display:inline;
+p img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-.accordion .fa-arrow-down{
-    display:none;
+
+.accordion .fa-arrow-right {
+    display: inline;
 }
-.accordion .active .fa-arrow-right{
-    display:none;
+
+.accordion .fa-arrow-down {
+    display: none;
 }
-.accordion .active .fa-arrow-down{
-    display:inline;
+
+.accordion .active .fa-arrow-right {
+    display: none;
+}
+
+.accordion .active .fa-arrow-down {
+    display: inline;
 }
 
 .accordion .accordion-navigation > a, .accordion dd > a {
@@ -62,11 +77,12 @@ code {
     font-family: "Lucida Console", Monaco, monospace;
     background: none;
     padding: 0;
+    font-size: 85%;
 }
 
 p code {
-    background-color: #f4f4f4;
-    padding: 0.3em;
+    background-color: rgba(0,0,0,0.08);
+    padding: 0.2em;
 }
 
 .highlight code {
@@ -83,38 +99,4 @@ pre {
     margin: .5em 0 1.25rem .5em;
     overflow: auto;
     background-color: #272822;
-}
-
-img[alt="PHP Best Practices"] { float: right; }
-
-.article h1 {
-    counter-reset: h2counter;
-}
-
-.article h2:before {
-    content: counter(h2counter) ".\0000a0\0000a0";
-    counter-increment: h2counter;
-    counter-reset: h3counter;
-}
-
-.article h3:before {
-    content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
-    counter-increment: h3counter;
-}
-
-.article ol > li {
-    counter-increment: root;
-}
-
-.article ol > li > ol {
-    counter-reset: subsection;
-    list-style-type: none;
-}
-
-.article ol > li > ol > li {
-    counter-increment: subsection;
-}
-
-.article ol > li > ol > li:before {
-    content: counter(root) "." counter(subsection) ". ";
 }
