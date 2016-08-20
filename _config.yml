@@ -9,16 +9,16 @@ defaults:
             group: 'general'
 
 exclude:
-    - "CONTRIBUTING.md"
-    - "Gemfile"
-    - "LICENSE"
-    - "README.md"
-    - "faq-facebook-document.html"
-    - "build.php"
-    - "_resources/README.md"
-    - "_resources/LICENSE"
-    - "_resources/CONTRIBUTING.md"
-    - "conduct/README.md"
+    - 'CONTRIBUTING.md'
+    - 'Gemfile'
+    - 'LICENSE'
+    - 'README.md'
+    - 'faq-facebook-document.html'
+    - 'build.php'
+    - '_resources/README.md'
+    - '_resources/LICENSE'
+    - '_resources/CONTRIBUTING.md'
+    - 'conduct/README.md'
 
 collections:
     resources:
@@ -28,6 +28,7 @@ collections:
 
 fb-group-id: 2204685680
 
+# Jekyll SEO Tag Plugin
 title: 'World Wide PHP Facebook Group'
 description: 'World Wide PHP Facebook Group'
 logo: '/assets/img/fb-link.png'
