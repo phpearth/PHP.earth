@@ -3,7 +3,6 @@ layout: default
 permalink: /faq/index.html
 title: "Frequently Asked PHP Questions"
 origin: "faq"
-group: false
 ---
 
 ![PHP FAQ](/assets/img/fb-link.png "PHP FAQ")

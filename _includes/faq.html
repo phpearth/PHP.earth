@@ -5,7 +5,8 @@
         <div id="{{ group.slug }}" class="content{% if page.group == group.slug %} active{% endif %}">
             <ul class="side-nav">
             {% for current in site.resources %}
-                {% if group.slug == current.group  %}
+                {% assign item_folders = current.path | split: '/' %}
+                {% if item_folders[1] == 'faq' and group.slug == item_folders[2] %}
                     <li{% if current.title == page.title %} class="active"{% endif %}>
                         <a href="{{ current.url }}">{{ current.title }}</a>
                     </li>

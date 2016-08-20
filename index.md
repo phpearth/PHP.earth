@@ -5,15 +5,13 @@ origin: "getting-started"
 ---
 
 {% assign faqs = 0 %}
-{% for current in site.resources %}
-    {% if "articles" != current.group and "practices" != current.group %}
-        {% assign faqs=faqs | plus:1 %}
-    {% endif %}
-{% endfor %}
-
 {% assign articles = 0 %}
 {% for current in site.resources %}
-    {% if "articles" == current.group %}
+    {% assign item_folders = current.path | split: '/' %}
+    {% if 'faq' == item_folders[1] %}
+        {% assign faqs=faqs | plus:1 %}
+    {% endif %}
+    {% if 'articles' == item_folders[1] %}
         {% assign articles=articles | plus:1 %}
     {% endif %}
 {% endfor %}

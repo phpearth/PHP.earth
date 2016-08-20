@@ -6,7 +6,6 @@ defaults:
         values:
             layout: 'article'
             image: '/assets/img/fb-link.png'
-            group: 'general'
 
 exclude:
     - 'CONTRIBUTING.md'
