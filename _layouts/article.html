@@ -4,7 +4,7 @@ layout: default
 
 <h1 class="article">{{ page.title }}</h1>
 
-<div style="margin-bottom: 20px;text-align: center;">{% if page.read_time %}<strong>{{ page.read_time }} read</strong>;{% endif %} {% if page.updated %}Updated: {{ page.updated }}{% endif%}</div>
+{% include read-time.html %}
 
 <div>{{ content }}</div>
 

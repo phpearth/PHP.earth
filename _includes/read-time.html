@@ -1,0 +1,7 @@
+{% assign words = content | number_of_words %}
+
+<div class="content-info">
+    <strong>{% if words < 360 %}1 min{% else %}{{ words | divided_by:180 }} mins{% endif %} read</strong>;
+
+    {% if page.updated %}Updated: {{ page.updated }}{% endif%}
+</div>

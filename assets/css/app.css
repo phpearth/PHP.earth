@@ -100,3 +100,8 @@ pre {
     overflow: auto;
     background-color: #272822;
 }
+
+.content-info {
+    margin-bottom: 20px;
+    text-align: center;
+}
