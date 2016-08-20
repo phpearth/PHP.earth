@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Search wwphp-fb"
+title: "Search"
 origin: "getting-started"
-og_image: "assets/img/fb-link.png"
 ---
 
 <h1>Search results</h1>

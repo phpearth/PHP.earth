@@ -3,7 +3,7 @@ layout: default
 permalink: /mra/
 title: "Membership Resurrection Act"
 origin: "mra"
-og_image: "assets/img/mra.jpg"
+image: "/assets/img/mra.jpg"
 ---
 
 # Membership Resurrection Act

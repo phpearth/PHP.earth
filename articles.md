@@ -1,9 +1,8 @@
 ---
 layout: default
 permalink: /articles/index.html
-title: "Articles"
+title: "PHP Articles"
 origin: "articles"
-og_image: "assets/img/fb-link.png"
 group: false
 ---
 

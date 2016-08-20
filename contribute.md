@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Get involved and contribute to World Wide PHP Facebook Group"
+title: "Get Involved and Contribute"
 origin: "contribute"
-og_image: "assets/img/elephpant.png"
+image: "/assets/img/elephpant.png"
 ---
 
 ![ElePHPant](/assets/img/elephpant.png "ElePHPant")

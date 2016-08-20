@@ -4,15 +4,8 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <!-- open graph -->
-        <meta property="og:title" content="{% if page.og_title %}{{ page.og_title }}{% else %}world wide PHP Facebook Group{% endif %}">
-        <meta property="og:type" content="article">
-        <meta property="og:url" content="http://wwphp-fb.github.io{{ page.url }}">
-        <meta property="og:image" content="http://wwphp-fb.github.io/{{ page.og_image }}">
-        <meta property="og:description" content="{% if page.og_description %}{{ page.og_description }}{% else %}{{ page.title }}{% endif %}">
-        <meta property="og:site_name" content="world wide PHP">
+        {% seo %}
 
-        <title>{{ page.title }} | world wide PHP Facebook Group</title>
         <link rel="stylesheet" href="/assets/css/foundation.css" />
         <link href="//fonts.googleapis.com/css?family=Audiowide" rel="stylesheet" type="text/css">
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">

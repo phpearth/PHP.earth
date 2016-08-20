@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Getting started"
+title: 'Getting Started'
 origin: "getting-started"
-og_image: "assets/img/fb-link.png"
 ---
+
 {% assign faqs = 0 %}
 {% for current in site.resources %}
     {% if "articles" != current.group and "practices" != current.group %}

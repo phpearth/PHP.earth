@@ -1,14 +1,13 @@
 ---
 layout: default
 permalink: /faq/index.html
-title: "FAQ"
+title: "Frequently Asked PHP Questions"
 origin: "faq"
-og_image: "assets/img/fb-link.png"
 group: false
 ---
 
 ![PHP FAQ](/assets/img/fb-link.png "PHP FAQ")
 
-# Frequently asked PHP questions
+# Frequently Asked PHP Questions
 
 {% include faq.html %}

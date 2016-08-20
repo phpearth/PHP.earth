@@ -1,18 +1,12 @@
 defaults:
     -
         scope:
-            path: ""
+            path: ''
+            collection: 'resources'
         values:
-            read_time: "1 min"
-            updated: "september 18, 2014"
-    -
-        scope:
-            path: ""
-            collection: "resources"
-        values:
-            layout: "article"
-            og_image: "assets/img/fb-link.png"
-            group: "general"
+            layout: 'article'
+            image: '/assets/img/fb-link.png'
+            group: 'general'
 
 exclude:
     - "CONTRIBUTING.md"
@@ -34,8 +28,11 @@ collections:
 
 fb-group-id: 2204685680
 
+title: 'World Wide PHP Facebook Group'
+description: 'World Wide PHP Facebook Group'
+logo: '/assets/img/fb-link.png'
+
 gems:
     - 'jekyll-sitemap'
     - 'jekyll-redirect-from'
-
-highlighter: rouge
+    - 'jekyll-seo-tag'
