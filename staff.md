@@ -39,7 +39,9 @@ our group.
         <img src="{{ current.avatar }}" alt="{{ current.name }}" class="th left" style="margin-right: 10px">
 
         <h5>{{ current.name }}</h5>
-
+        {% for pos in current.position %}
+        <div style="font-color: #484848">{{ pos }}</div>
+        {% endfor %}
         {% if current.facebook_id %}
             <a href="https://facebook.com/{{ current.facebook_id }}"><i class="fa fa-facebook-official"></i></a>
         {% endif %}
