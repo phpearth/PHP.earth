@@ -40,7 +40,7 @@ our group.
 
         <h5>{{ current.name }}</h5>
         {% for pos in current.position %}
-        <div style="font-color: #484848">{{ pos }}</div>
+        <div style="font-color: #eee; margin-top: -.5rem;"><small>{{ pos }}</small></div>
         {% endfor %}
         {% if current.facebook_id %}
             <a href="https://facebook.com/{{ current.facebook_id }}"><i class="fa fa-facebook-official"></i></a>
