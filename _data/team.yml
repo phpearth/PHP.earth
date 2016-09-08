@@ -4,6 +4,12 @@
     facebook_id: "100000064018416"
 
 -
+    name: "Akshay Darekar"
+    avatar: http://graph.facebook.com/100000668175412/picture?type=large&width=64&height=64
+    github: acdarekar
+    facebook_id: 100000668175412
+
+-
     name: "Asad Hasan"
     avatar: http://graph.facebook.com/541500049/picture?type=large&width=64&height=64
     facebook_id: "541500049"
@@ -15,10 +21,28 @@
     facebook_id: "566978374"
 
 -
+    name: "Chris Kielholz"
+    avatar: https://avatars2.githubusercontent.com/u/9944973?s=64
+    github: Enorion
+    facebook_id: 100000588187379
+
+-
     name: "Dennis Degryse"
     avatar: "https://avatars.githubusercontent.com/u/475980?size=64"
     github: dennisdegryse
     facebook_id: "1306052220"
+
+-
+    name: "Ian Carroll"
+    avatar: "https://avatars2.githubusercontent.com/u/1280719?s=64"
+    github: iangcarroll
+    facebook_id: 100006107468616
+
+-
+    name: "Mackenzie Pech"
+    avatar: http://graph.facebook.com/1443866856/picture?type=large&width=64&height=64
+    facebook_id: 1443866856
+    twitter: MackenziePech
 
 -
     name: "Manuel Lemos"
@@ -31,6 +55,12 @@
     avatar: "https://avatars.githubusercontent.com/u/2115919?size=64"
     github: Golpha
     facebook_id: "100001235041928"
+
+-
+    name: "Michael Bailey"
+    avatar: "https://avatars3.githubusercontent.com/u/7607089?s=64"
+    github: "mike-bailey"
+    facebook_id: 1757221158
 
 -
     name: "Murthy Bhat"
