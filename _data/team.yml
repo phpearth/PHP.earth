@@ -32,6 +32,12 @@
     position: ["Moderator"]
 
 -
+    name: "Christie Trent"
+    avatar: http://graph.facebook.com/100010530130672/picture?type=large&width=64&height=64
+    facebook_id: 100010530130672
+    position: ["Moderator"]
+
+-
     name: "Dennis Degryse"
     avatar: "https://avatars.githubusercontent.com/u/475980?size=64"
     github: dennisdegryse
