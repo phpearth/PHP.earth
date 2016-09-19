@@ -59,8 +59,7 @@ Preview of generated static files can than be viewed at `http://localhost:4000`.
 PHP related contents (FAQs, articles and best practices) are located in a separate
 [php-resources](https://github.com/wwphp-fb/php-resources) repository. When these
 contents changes, [build.php](https://github.com/wwphp-fb/wwphp-fb.github.io/blob/master/build.php)
-script can be used to generate search index and
-[Facebook document](https://www.facebook.com/groups/2204685680/10152913993630681/) HTML file:
+script can be used to generate search index:
 
 ```bash
 sudo sh -c "curl http://get.sensiolabs.org/melody.phar -o /usr/local/bin/melody && chmod a+x /usr/local/bin/melody"

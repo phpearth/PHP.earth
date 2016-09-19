@@ -12,7 +12,6 @@ exclude:
     - 'Gemfile'
     - 'LICENSE'
     - 'README.md'
-    - 'faq-facebook-document.html'
     - 'build.php'
     - '_resources/README.md'
     - '_resources/LICENSE'
