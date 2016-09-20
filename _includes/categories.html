@@ -2,13 +2,8 @@
 
 {% for current in site.resources %}
     {% assign folders = current.path | split: '/' %}
-    {% assign url_paths = current.permalink | split: '/' %}
 
     {% unless categories contains folders[1] %}
-        {% if url_paths[1] != 'faq' %}
-            {% continue %}
-        {% endif %}
-
         {% if categories == '' %}
             {% assign categories = categories | append: folders[1] %}
         {% else %}

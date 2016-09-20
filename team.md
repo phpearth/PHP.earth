@@ -1,14 +1,16 @@
 ---
 layout: default
 title: "World Wide PHP Facebook Group Team"
-origin: "staff"
+origin: "team"
 image: "/assets/img/shield.jpg"
 redirect_from:
     - "/admins/"
     - "admins.html"
+    - "staff.html"
+    - "staff"
 ---
 
-![Administrators](/assets/img/shield.jpg "Administrators")
+![Team](/assets/img/shield.jpg "Team")
 
 # Our Team
 
@@ -37,17 +39,16 @@ Facebook group:
 {% endfor %}
 </ul>
 
-## What are Administrators and Moderators?
-
-Our group is moderated by administrators and moderators, all of them have the same
-rights, all of them have the same duties: **protect you**.
-
 ## How to Become a Team Member?
 
 To get involved please check the [getting involved](/get-involved) guide and get
 in touch with us for further discussion. Team members are carefully selected by
-the current administration staff. If we decide to recruit more administrators and
-moderators we will talk to our nominees, maybe one day to you.
+the current administration staff.
+
+## What are Administrators and Moderators?
+
+Our group is moderated by administrators and moderators, all of them have the same
+rights, all of them have the same duties: **protect you**.
 
 ## Can Administrators and Moderators Do What They Want?
 

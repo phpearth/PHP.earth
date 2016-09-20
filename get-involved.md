@@ -9,18 +9,17 @@ image: "/assets/img/elephpant.png"
 
 # Get Involved
 
-Get involved and give something back to the community. We really appreciate your
-help.
+Get involved and give something back to the community.
 
 ## How Can You Help?
 
-### Share Your Knowledge in the Group
+### Share your knowledge
 
 Helping others and sharing quality PHP content in our
 [Facebook group](https://www.facebook.com/groups/2204685680/) is respectful and
 awesome contribution to the PHP community.
 
-### Contribute to Open Source Projects
+### Contribute to open source projects
 
 Contributing to open source projects is awesome, altruistic and is changing this
 world. It can and should be first of all fun but it requires also lots of
@@ -60,7 +59,7 @@ the <a href="https://github.com/wwphp-fb" rel="nofollow">wanted project</a> and 
   The [facebook-bot](https://github.com/wwphp-fb/facebook-bot) is an
   experimental bot written in PHP for managing Facebook groups.
 
-#### Contributing Procedure
+#### Contributing procedure
 
 Before contributing to any open source project on GitHub get yourself familiar
 with [Git version control system](/faq/git-introduction/) usage and how to use
@@ -116,17 +115,27 @@ with [Git version control system](/faq/git-introduction/) usage and how to use
 
 * Send a pull request
 
-### Pinned Topics
+### Pinned topics
 
 Every week or two we have special topics to gain more exposure or more thorough
 discussions about topics that are either important for the PHP community or the
 group in general. These topics are pinned on top of the group for few days. You
 can send your suggestions by opening a ticket at
 [GitHub](https://github.com/wwphp-fb/wwphp-fb.github.io/issues) or getting in
-touch with the [team](/staff).
+touch with the us.
 
-### How to Become Core Team Member (administrator/moderator...)?
+### Join the core team
 
 Team members are carefully selected by the current administration staff. Get in
 touch with us for further discussion. If we decide to recruit more team members
 we will talk to our nominees, maybe one day to you.
+
+#### Administrators
+
+Administrators and moderators moderate the Facebook group.
+
+#### Committer
+
+Committers position is given as a recognition for dedicated contributions to
+open source repositories. Committers have push access to open source repositories
+on GitHub.
