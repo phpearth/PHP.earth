@@ -14,17 +14,18 @@ layout: foundation-bootstrap
             <!-- Right Nav Section -->
             <ul class="right">
                 <li{% if page.origin == 'conduct' %} class="active"{% endif %}><a href="/code-of-conduct/"><i class="fa fa-exclamation-triangle"></i> Code of Conduct</a></li>
-                <li{% if page.origin == 'staff' %} class="active"{% endif %}><a href="/staff.html"><i class="fa fa-shield"></i> Our Staff</a></li>
-                <li{% if page.origin == 'contribute' %} class="active"{% endif %}><a href="/contribute.html"><i class="fa fa-github-square"></i> Contribute</a></li>
-                <li><a href="https://www.facebook.com/groups/{{ site.fb-group-id }}/"><i class="fa fa-send"></i> Facebook Group</a></li>
+                <li{% if page.origin == 'team' %} class="active"{% endif %}><a href="/team"><i class="fa fa-shield"></i> Team</a></li>
+                <li{% if page.origin == 'learn' %} class="active"{% endif %}><a href="/learn"><i class="fa fa-graduation-cap"></i> Learn</a></li>
+                <li{% if page.origin == 'contributors' %} class="active"{% endif %}><a href="/contributors"><i class="fa fa-github"></i> Contribute</a></li>
+                <li><a href="https://www.facebook.com/groups/{{ site.fb-group-id }}/"><i class="fa fa-send"></i> Group</a></li>
                 <li class="has-form">
                     <div id="search">
                     <form action="/search.html" method="get">
                     <div class="row collapse">
-                        <div class="large-8 small-9 columns">
-                            <input type="text" name="q" id="search-query" placeholder="Find stuff..." autocomplete="off">
+                        <div class="large-9 small-10 columns">
+                            <input type="text" name="q" id="search-query" placeholder="Find stuff" autocomplete="off">
                         </div>
-                        <div class="large-4 small-3 columns">
+                        <div class="large-3 small-2 columns">
                             <input type="submit" class="button" value="Search">
                         </div>
                     </div>
@@ -47,7 +48,7 @@ layout: foundation-bootstrap
 <footer style="background-color:black; color:white; padding-top:8px; padding-bottom:8px; text-align:center;">
     <div class="row">
         <div class="large-12 column" style="font-size:9pt;">
-            &copy;{{ 'now' | date: "%Y" }} Administrators of the International PHP Facebook Group
+            &copy;{{ 'now' | date: "%Y" }} World Wide PHP Group Admins | <a href="/get-involved">Get Involved</a>
         </div>
     </div>
 </footer>

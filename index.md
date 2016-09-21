@@ -5,54 +5,60 @@ origin: "getting-started"
 ---
 
 {% assign faqs = 0 %}
-{% assign articles = 0 %}
 {% for current in site.resources %}
-    {% assign item_folders = current.path | split: '/' %}
-    {% if 'faq' == item_folders[1] %}
+    {% assign items = current.permalink | split: '/' %}
+    {% if 'faq' == items[1] %}
         {% assign faqs=faqs | plus:1 %}
-    {% endif %}
-    {% if 'articles' == item_folders[1] %}
-        {% assign articles=articles | plus:1 %}
     {% endif %}
 {% endfor %}
 
 <div class="row">
     <div class="large-12 columns" style="margin-top:8px">
         <p><img src="assets/img/elephpant.png" alt="an elephant, trust me."></p>
-        <h3 style="font-family:Audiowide;text-align:center">Welcome developer</h3>
-        <p>to the GitHub Pages of the <strong>international PHP Facebook Group</strong>,
-        the following pages will show you our rules, a qualified FAQ containing
-        most asked questions from our daily discoveries in our group, most wanted PHP
-        tutorials, some PHP articles, information on how to get properly involved and a small
-        overview who is representing the group as its staff.</p>
-        <p>But first, keep in mind that you accept the <a href="/code-of-conduct/">following rules</a> of our group if you request a membership.</p>
+
+        <h1 style="font-family:Audiowide;text-align:center">Welcome Developer</h1>
+
+        <p style="text-align: center">on the pages of the <strong>World Wide PHP Facebook Group</strong>.</p>
+
+        <p>These pages will show you our rules, a qualified FAQ containing most
+        asked questions, and an overview who represents the group.</p>
+
+    </div>
+</div>
+
+<div class="row" data-equalizer="bar">
+    <div class="large-4 columns">
+        <div class="panel" data-equalizer-watch="bar">
+            <h5><a href="/code-of-conduct/" style="color: red"><i class="fa fa-circle-thin"></i> Code of Conduct</a></h5>
+
+            <p>First keep in mind that you accept the rules of our group if you request a membership. We appreciate good values and quality. Thank you!</p>
+        </div>
+    </div>
+    <div class="large-4 columns">
+        <div class="panel" data-equalizer-watch="bar">
+            <h5><a href="/articles/how-to-ask-smart-questions/"><i class="fa fa-circle-thin"></i> How to Ask Smart Questions</a></h5>
+
+            <p>Tutorial how to ask smart question in tech communities such as this.</p>
+        </div>
+    </div>
+    <div class="large-4 columns">
+        <div class="panel" data-equalizer-watch="bar">
+            <h5><a href="/faq"><i class="fa fa-circle-thin"></i> Frequently Asked Questions</a></h5>
+
+            <p>{{ faqs }} most frequently asked PHP questions from our daily discovery with qualified and unbiased answers.</p>
+        </div>
     </div>
 </div>
 
 <div class="row">
-    <div class="large-4 columns">
-        <h5><a href="/articles"><i class="fa fa-circle-thin"></i> PHP articles ({{ articles }})</a></h5>
-        <p>Some of the most wanted tutorials and articles which will help you get started with PHP or learn something new. Sometimes you want to learn something more advanced about PHP.</p>
-    </div>
-    <div class="large-4 columns">
-        <h5><a href="/faq"><i class="fa fa-circle-thin"></i> Frequently asked questions ({{ faqs }})</a></h5>
-        <p>We have prepared a set of most frequently asked questions with as qualified and unbiased as possible answers.</p>
-    </div>
-    <div class="large-4 columns">
-        <h5><a href="/php-best-practices"><i class="fa fa-circle-thin"></i> PHP Best Practices</a></h5>
-        <p>Some of the PHP best practices that can simplify and improve your coding at the same time. Here is a list of PHP best practices.</p>
-    </div>
-</div>
-
-<div class="row">
-    <div class="large-12 columns" style="text-align:center;">
+    <div class="large-12 columns">
 
     </div>
 </div>
 
 <div class="row">
     <div class="large-12 columns" style="margin-top:16px; margin-bottom:16px; text-align:center;">
-        have a good time at our group and don't be shy to ask your question.
+        Have a good time in our group and don't be shy to ask your question.
     </div>
 </div>
 <div class="row">
