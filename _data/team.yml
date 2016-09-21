@@ -35,6 +35,12 @@
     position: ["Data Manager"]
 
 -
+    name: "Hamza Ahmad"
+    avatar: http://graph.facebook.com/100007633053977/picture?type=large&width=64&height=64
+    facebook_id: 100007633053977
+    position: ["Accessibility Manager"]
+
+-
     name: "Ahsan Ali"
     avatar: http://graph.facebook.com/100000064018416/picture?type=large&width=64&height=64
     facebook_id: 100000064018416
