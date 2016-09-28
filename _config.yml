@@ -6,6 +6,7 @@ defaults:
         values:
             layout: 'article'
             image: '/assets/img/fb-link.png'
+            origin: 'learn'
 
 exclude:
     - 'CONTRIBUTING.md'
