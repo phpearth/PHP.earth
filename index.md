@@ -36,7 +36,7 @@ origin: "getting-started"
     </div>
     <div class="large-4 columns">
         <div class="panel" data-equalizer-watch="bar">
-            <h5><a href="/articles/how-to-ask-smart-questions/"><i class="fa fa-circle-thin"></i> How to Ask Smart Questions</a></h5>
+            <h5><a href="/smart-questions"><i class="fa fa-circle-thin"></i> How to Ask Smart Questions</a></h5>
 
             <p>Tutorial how to ask smart question in tech communities such as this.</p>
         </div>

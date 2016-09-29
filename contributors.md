@@ -3,6 +3,7 @@ layout: default
 title: "Contributors"
 origin: "contributors"
 image: "/assets/img/elephpant.png"
+permalink: "/contributors"
 redirect_from:
     - "/contribute"
     - "/constribute.html"
