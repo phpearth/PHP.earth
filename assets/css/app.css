@@ -1,5 +1,6 @@
 body {
     counter-reset: h2counter;
+    background-color:#333;
 }
 
 h1 {
@@ -104,4 +105,15 @@ pre {
 .content-info {
     margin-bottom: 20px;
     text-align: center;
+}
+
+.github {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.github a,
+.github a:visited,
+.github a:hover {
+    color: #222;
 }
