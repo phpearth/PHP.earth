@@ -116,6 +116,13 @@
     position: ["Moderator"]
 
 -
+    name: "Kush Patel"
+    avatar: http://graph.facebook.com/631924320/picture?type=large&width=64&height=64
+    github: kushp
+    facebook_id: 631924320
+    position: ["Moderator"]
+
+-
     name: "Mackenzie Pech"
     avatar: http://graph.facebook.com/1443866856/picture?type=large&width=64&height=64
     facebook_id: 1443866856
