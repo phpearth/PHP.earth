@@ -27,16 +27,22 @@ Facebook group:
         <div style="font-color: #eee; margin-top: -.5rem;"><small>{{ pos }}</small></div>
         {% endfor %}
         {% if current.facebook_id %}
-            <a href="https://facebook.com/{{ current.facebook_id }}"><i class="fa fa-facebook-official"></i></a>
+            <a href="https://facebook.com/{{ current.facebook_id }}" title="Facebook"><i class="fa fa-facebook-official"></i></a>
         {% endif %}
         {% if current.github %}
-            <a href="https://github.com/{{ current.github }}"><i class="fa fa-github"></i></a>
+            <a href="https://github.com/{{ current.github }}" title="GitHub"><i class="fa fa-github"></i></a>
         {% endif %}
         {% if current.twitter %}
-            <a href="https://twitter.com/{{ current.twitter }}"><i class="fa fa-twitter"></i></a>
+            <a href="https://twitter.com/{{ current.twitter }}" title="Twitter"><i class="fa fa-twitter"></i></a>
         {% endif %}
         {% if current.linkedin %}
-            <a href="{{ current.linkedin }}"><i class="fa fa-linkedin-square"></i></a>
+            <a href="{{ current.linkedin }}" title="LinkedIn"><i class="fa fa-linkedin-square"></i></a>
+        {% endif %}
+        {% if current.web %}
+            <a href="{{ current.web }}" title="Website"><i class="fa fa-external-link-square"></i></a>
+        {% endif %}
+        {% if current.ieee %}
+            <a href="{{ current.ieee }}" title="IEEE"><img src="/assets/img/ieee.svg" alt="IEEE" width="20px"></a>
         {% endif %}
     </li>
 {% endfor %}
