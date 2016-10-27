@@ -35,6 +35,9 @@ Facebook group:
         {% if current.twitter %}
             <a href="https://twitter.com/{{ current.twitter }}"><i class="fa fa-twitter"></i></a>
         {% endif %}
+        {% if current.linkedin %}
+            <a href="{{ current.linkedin }}"><i class="fa fa-linkedin-square"></i></a>
+        {% endif %}
     </li>
 {% endfor %}
 </ul>
