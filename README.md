@@ -15,5 +15,4 @@ We love contributors and people willing to help. Open an
 [issue](https://github.com/wwphp-fb/wwphp-fb.github.io/issues) or send us pull
 request. Check [CONTRIBUTING.md](CONTRIBUTING.md) file for more information.
 
-This repository is released under the [MIT license](LICENSE). Texts are released
-under the [Creative Commons Attribution 4.0 International License](LICENSE).
+Check [license](LICENSE) file for licensing info.
