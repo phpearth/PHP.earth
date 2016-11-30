@@ -157,6 +157,13 @@
     position: ["Moderator"]
 
 -
+    name: Pranay Kumar
+    avatar: "http://graph.facebook.com/1592922723/picture?type=large&width=64&height=64"
+    github: pranaykumardalwadi
+    facebook_id: 1592922723
+    position: ["Moderator"]
+
+-
     name: "Soumik Sengupta"
     avatar: http://graph.facebook.com/100007763743447/picture?type=large&width=64&height=64
     github: "hardcodersmk"
