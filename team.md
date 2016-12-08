@@ -20,7 +20,7 @@ Facebook group:
 <ul class="medium-block-grid-3">
 {% for current in site.data.team %}
     <li>
-        <img src="{{ current.avatar }}" alt="{{ current.name }}" class="th left" style="margin-right: 10px">
+        <img src="{{ current.avatar }}" alt="{{ current.name }}" class="th left" style="margin-right: 10px; max-width:75px;">
 
         <h5>{{ current.name }}</h5>
         {% for pos in current.position %}
