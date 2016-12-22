@@ -1,7 +1,7 @@
 -
     name: "Peter Kokot"
-    avatar: "https://avatars.githubusercontent.com/u/1614009?size=64"
-    github: "peterkokot"
+    avatar: https://avatars.githubusercontent.com/u/1614009?size=64
+    github: peterkokot
     facebook_id: 1767364038
     twitter: peter_kokot
     linkedin: https://www.linkedin.com/in/peterkokot
@@ -9,7 +9,7 @@
 
 -
     name: "Matthias Kaschubowski"
-    avatar: "https://avatars2.githubusercontent.com/u/23406211?v=3&s=64"
+    avatar: https://avatars2.githubusercontent.com/u/23406211?v=3&s=64
     github: nhlm
     facebook_id: 100001235041928
     twitter: nihylum
@@ -20,92 +20,16 @@
 
 -
     name: "Caleb Mazalevskis"
-    avatar: "http://graph.facebook.com/566978374/picture?type=large&width=64&height=64"
+    avatar: http://graph.facebook.com/566978374/picture?type=large&width=64&height=64
     github: Maikuolan
     facebook_id: 566978374
     position: ["Community Manager"]
-
--
-    name: "Manuel Lemos"
-    avatar: "http://graph.facebook.com/628216645/picture?type=large&width=64&height=64"
-    github: manuellemos
-    facebook_id: "628216645"
-    linkedin: https://www.linkedin.com/in/manuellemos
-    position: ["Data Manager"]
-
--
-    name: "Samuel Adeshina"
-    avatar: "http://graph.facebook.com/100006865662389/picture?type=large&width=64&height=64"
-    github: Samshal
-    facebook_id: 100006865662389
-    linkedin: https://www.linkedin.com/in/samuel-adeshina-b9367a88
-    position: ["Data Manager"]
 
 -
     name: "Hamza Ahmad"
     avatar: http://graph.facebook.com/100007633053977/picture?type=large&width=64&height=64
     facebook_id: 100007633053977
     position: ["Accessibility Manager"]
-
--
-    name: "Ahsan Ali"
-    avatar: http://graph.facebook.com/100000064018416/picture?type=large&width=64&height=64
-    facebook_id: 100000064018416
-    position: ["Administrator"]
-
--
-    name: "Asad Hasan"
-    avatar: http://graph.facebook.com/541500049/picture?type=large&width=64&height=64
-    facebook_id: 541500049
-    position: ["Administrator"]
-
--
-    name: "Dennis Degryse"
-    avatar: "https://avatars.githubusercontent.com/u/475980?size=64"
-    github: dennisdegryse
-    facebook_id: 1306052220
-    linkedin: https://www.linkedin.com/in/dennis-degryse-1a80672a
-    position: ["Administrator"]
-
--
-    name: "Murthy Bhat"
-    avatar: https://avatars.githubusercontent.com/u/4547451?size=64
-    github: "aaryadev"
-    facebook_id: 100008471584795
-    linkedin: https://www.linkedin.com/in/mangalamoorti-bhat-50a55273
-    position: ["Administrator"]
-
--
-    name: "Samundra Shrestha"
-    avatar: https://avatars.githubusercontent.com/u/760855?size=64
-    github: samundra
-    facebook_id: 597458256
-    linkedin: https://linkedin.com/in/samundra-shrestha-92748120
-    position: ["Administrator"]
-
--
-    name: "Suraj Kumar Adhikari"
-    avatar: "https://avatars.githubusercontent.com/u/5631327?size=64"
-    github: surajprogrammez
-    facebook_id: 100000480144675
-    twitter: surajprogrammez
-    linkedin: https://www.linkedin.com/in/surajprogrammez
-    position: ["Administrator"]
-
--
-    name: "Tony Sodano"
-    avatar: "https://avatars.githubusercontent.com/u/3932300?size=64"
-    github: tonysodano
-    facebook_id: 660520108
-    linkedin: https://www.linkedin.com/in/tonysodano
-    position: ["Administrator"]
-
--
-    name: "Akshay Darekar"
-    avatar: http://graph.facebook.com/100000668175412/picture?type=large&width=64&height=64
-    github: acdarekar
-    facebook_id: 100000668175412
-    position: ["Moderator"]
 
 -
     name: "Chris Kielholz"
@@ -115,24 +39,52 @@
     position: ["Public Relations Manager"]
 
 -
+    name: "Ahsan Ali"
+    avatar: http://graph.facebook.com/100000064018416/picture?type=large&width=64&height=64
+    github: ahsan154
+    facebook_id: 100000064018416
+    position: ["Admin"]
+
+-
+    name: "Akshay Darekar"
+    avatar: http://graph.facebook.com/100000668175412/picture?type=large&width=64&height=64
+    github: acdarekar
+    facebook_id: 100000668175412
+    position: ["Admin"]
+
+-
+    name: "Asad Hasan"
+    avatar: http://graph.facebook.com/541500049/picture?type=large&width=64&height=64
+    facebook_id: 541500049
+    position: ["Admin"]
+
+-
     name: "Christie Trent"
     avatar: http://graph.facebook.com/100010530130672/picture?type=large&width=64&height=64
     facebook_id: 100010530130672
-    position: ["Moderator"]
+    position: ["Admin"]
+
+-
+    name: "Dennis Degryse"
+    avatar: https://avatars.githubusercontent.com/u/475980?size=64
+    github: dennisdegryse
+    facebook_id: 1306052220
+    linkedin: https://www.linkedin.com/in/dennis-degryse-1a80672a
+    position: ["Admin"]
 
 -
     name: "Ian Carroll"
-    avatar: "https://avatars2.githubusercontent.com/u/1280719?s=64"
+    avatar: https://avatars2.githubusercontent.com/u/1280719?s=64
     github: iangcarroll
     facebook_id: 100006107468616
-    position: ["Moderator"]
+    position: ["Admin"]
 
 -
     name: "Kush Patel"
     avatar: http://graph.facebook.com/631924320/picture?type=large&width=64&height=64
     github: kushp
     facebook_id: 631924320
-    position: ["Moderator"]
+    position: ["Admin"]
 
 -
     name: "Lars Ehrman"
@@ -140,39 +92,88 @@
     github: WebsterSweden
     facebook_id: 100000874410402
     linkedin: https://linkedin.com/in/larsehrman
-    position: ["Moderator"]
+    position: ["Admin"]
 
 -
     name: "Mackenzie Pech"
     avatar: http://graph.facebook.com/1443866856/picture?type=large&width=64&height=64
     facebook_id: 1443866856
-    twitter: MackenziePech
-    position: ["Moderator"]
+    twitter: mackied0g
+    position: ["Admin"]
 
 -
     name: "Michael Bailey"
-    avatar: "https://avatars3.githubusercontent.com/u/7607089?s=64"
-    github: "mike-bailey"
+    avatar: https://avatars3.githubusercontent.com/u/7607089?s=64
+    github: mike-bailey
     facebook_id: 1757221158
-    position: ["Moderator"]
+    position: ["Admin"]
 
 -
     name: Pranay Kumar
-    avatar: "http://graph.facebook.com/1592922723/picture?type=large&width=64&height=64"
+    avatar: http://graph.facebook.com/1592922723/picture?type=large&width=64&height=64
     github: pranaykumardalwadi
     facebook_id: 1592922723
-    position: ["Moderator"]
+    position: ["Admin"]
+
+-
+    name: "Manuel Lemos"
+    avatar: http://graph.facebook.com/628216645/picture?type=large&width=64&height=64
+    github: manuellemos
+    facebook_id: "628216645"
+    linkedin: https://www.linkedin.com/in/manuellemos
+    position: ["Admin"]
+
+-
+    name: "Murthy Bhat"
+    avatar: https://avatars.githubusercontent.com/u/4547451?size=64
+    github: "aaryadev"
+    facebook_id: 100008471584795
+    linkedin: https://www.linkedin.com/in/mangalamoorti-bhat-50a55273
+    position: ["Admin"]
+
+-
+    name: "Samuel Adeshina"
+    avatar: http://graph.facebook.com/100006865662389/picture?type=large&width=64&height=64
+    github: Samshal
+    facebook_id: 100006865662389
+    linkedin: https://www.linkedin.com/in/samuel-adeshina-b9367a88
+    position: ["Admin"]
 
 -
     name: "Soumik Sengupta"
     avatar: http://graph.facebook.com/100007763743447/picture?type=large&width=64&height=64
     github: "hardcodersmk"
     facebook_id: 100007763743447
-    position: ["Moderator"]
+    position: ["Admin"]
+
+-
+    name: "Suraj Kumar Adhikari"
+    avatar: https://avatars.githubusercontent.com/u/5631327?size=64
+    github: surajprogrammez
+    facebook_id: 100000480144675
+    twitter: surajprogrammez
+    linkedin: https://www.linkedin.com/in/surajprogrammez
+    position: ["Admin"]
+
+-
+    name: "Tony Sodano"
+    avatar: https://avatars.githubusercontent.com/u/3932300?size=64
+    github: tonysodano
+    facebook_id: 660520108
+    linkedin: https://www.linkedin.com/in/tonysodano
+    position: ["Admin"]
 
 -
     name: "Django Lorentzson"
-    avatar: "https://avatars1.githubusercontent.com/u/5727111?s=64"
+    avatar: https://avatars1.githubusercontent.com/u/5727111?s=64
     github: kezadias
     facebook_id: 100001903648926
-    position: ["Committer"]
+    position: ["Core Contributor"]
+
+-
+    name: "Samundra Shrestha"
+    avatar: https://avatars.githubusercontent.com/u/760855?size=64
+    github: samundra
+    facebook_id: 597458256
+    linkedin: https://linkedin.com/in/samundra-shrestha-92748120
+    position: ["Core Contributor"]
