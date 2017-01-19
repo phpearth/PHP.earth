@@ -164,6 +164,13 @@
     position: ["Admin"]
 
 -
+    name: Юрий Жеребцов
+    avatar: https://avatars2.githubusercontent.com/u/6460017?s=64
+    github: zejur
+    facebook_id: 100001553226707
+    position: ["Admin"]
+
+-
     name: "Django Lorentzson"
     avatar: https://avatars1.githubusercontent.com/u/5727111?s=64
     github: kezadias
