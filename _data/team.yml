@@ -140,6 +140,14 @@
     position: ["Admin"]
 
 -
+    name: "Samundra Shrestha"
+    avatar: https://avatars.githubusercontent.com/u/760855?size=64
+    github: samundra
+    facebook_id: 597458256
+    linkedin: https://linkedin.com/in/samundra-shrestha-92748120
+    position: ["Admin"]
+
+-
     name: "Soumik Sengupta"
     avatar: http://graph.facebook.com/100007763743447/picture?type=large&width=64&height=64
     github: "hardcodersmk"
@@ -175,12 +183,4 @@
     avatar: https://avatars1.githubusercontent.com/u/5727111?s=64
     github: kezadias
     facebook_id: 100001903648926
-    position: ["Core Contributor"]
-
--
-    name: "Samundra Shrestha"
-    avatar: https://avatars.githubusercontent.com/u/760855?size=64
-    github: samundra
-    facebook_id: 597458256
-    linkedin: https://linkedin.com/in/samundra-shrestha-92748120
     position: ["Core Contributor"]
