@@ -73,6 +73,12 @@
     position: ["Admin"]
 
 -
+    name: "Emil Nilsson"
+    avatar: http://graph.facebook.com/100006220391696/picture?type=large&width=64&height=64
+    facebook_id: 100006220391696
+    position: ["Admin"]
+
+-
     name: "Ian Carroll"
     avatar: https://avatars2.githubusercontent.com/u/1280719?s=64
     github: iangcarroll
