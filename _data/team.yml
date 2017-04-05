@@ -53,6 +53,13 @@
     position: ["Admin"]
 
 -
+    name: "Alex Gorgadze"
+    avatar: http://graph.facebook.com/100006774829238/picture?type=large&width=64&height=64
+    github: AlexGorgadz3
+    facebook_id: 100006774829238
+    position: ["Admin"]
+
+-
     name: "Asad Hasan"
     avatar: http://graph.facebook.com/541500049/picture?type=large&width=64&height=64
     facebook_id: 541500049
