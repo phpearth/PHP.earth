@@ -57,7 +57,7 @@ Preview of generated static files can than be viewed at `http://localhost:4000`.
 ## Build
 
 PHP related contents (FAQs, articles and best practices) are located in a separate
-[php-resources](https://github.com/wwphp-fb/php-resources) repository. When these
+[php-knowledge](https://github.com/php-earth/php-knowledge) repository. When these
 contents changes, [build.php](https://github.com/wwphp-fb/wwphp-fb.github.io/blob/master/build.php)
 script can be used to generate search index:
 
@@ -74,4 +74,4 @@ By contributing to this repository you agree to share your knowledge under the
 [Creative Commons Attribution 4.0 International License][license] and your code
 under the [MIT license][license].
 
-[license]: https://github.com/wwphp-fb/php-resources/blob/master/LICENSE
+[license]: https://github.com/wwphp-fb/php-knowledge/blob/master/LICENSE

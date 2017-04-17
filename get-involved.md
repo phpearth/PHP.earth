@@ -26,22 +26,22 @@ world. It can and should be first of all fun but it requires also lots of
 technical skills, patience, ability to work with others, constant adaptations
 and many commitments as well.
 
-Our repositories are located on [GitHub](https://github.com/wwphp-fb) and
+Our repositories are located on [GitHub](https://github.com/php-earth) and
 contributing is as simple as possible. Just fork the project and send us pull
 request or open an issue.
 
 <div class="panel callout radius" style="margin-top: 50px"><img src="/assets/img/octocat.png" alt="Octocat" />Go to GitHub, fork
-the <a href="https://github.com/wwphp-fb" rel="nofollow">wanted project</a> and send us pull request.</div>
+the <a href="https://github.com/php-earth" rel="nofollow">wanted project</a> and send us pull request.</div>
 
 * **PHP Resources**
 
-  The [php-resources](https://github.com/wwphp-fb/php-resources) repository
+  The [php-knowledge](https://github.com/php-earth/php-knowledge) repository
   contains all the content from the FAQ and the articles.
 
   You can help us improve the [frequently asked questions](/faq/),
   [articles](/articles/) and [best practices](/php-best-practices/) if there
   are missing information that should be pointed out or fix typos. The
-  [opened issues](https://github.com/wwphp-fb/php-resources/issues) contain
+  [opened issues](https://github.com/php-earth/php-knowledge/issues) contain
   list of things to fix and improve.
 
   GitHub provides also built in editor on GitHub so editing content should be
@@ -51,13 +51,8 @@ the <a href="https://github.com/wwphp-fb" rel="nofollow">wanted project</a> and 
 
 * **Stats**
 
-  The [stats](https://github.com/wwphp-fb/stats) application for generating weekly
+  The [stats](https://github.com/php-earth/stats) application for generating weekly
   group stats report is written in PHP.
-
-* **Facebook Bot**
-
-  The [facebook-bot](https://github.com/wwphp-fb/facebook-bot) is an
-  experimental bot written in PHP for managing Facebook groups.
 
 #### Contributing procedure
 
@@ -70,13 +65,13 @@ with [Git version control system](/faq/git-introduction/) usage and how to use
 * Setup your local environment:
 
   ```bash
-  git clone git@github.com:your_username/php-resources.git
+  git clone git@github.com:your_username/php-knowledge.git
   ```
 
 * Set up your repository and set a remote branch for future updates:
 
   ```bash
-  git remote add upstream git://github.com/wwphp-fb/php-resources.git
+  git remote add upstream git://github.com/php-earth/php-knowledge.git
   git config branch.master.remote upstream
   ```
 

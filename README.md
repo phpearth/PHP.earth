@@ -5,7 +5,7 @@
 Repository for homepage of the [World Wide PHP Facebook Group](https://www.facebook.com/groups/2204685680/).
 It uses Jekyll and [GitHub pages](https://pages.github.com/).
 
-[PHP resources](https://github.com/wwphp-fb/php-resources) (FAQs, articles, best
+[PHP resources](https://github.com/php-earth/php-knowledge) (FAQs, articles, best
 practices) and [Code of Conduct](https://github.com/wwphp-fb/conduct) (group rules)
 are added as Git submodules.
 
