@@ -3,10 +3,10 @@
     var $contributors = $('#contribute-contributors');
     if ( $contributors.length ) {
         var fail = function () {
-            $contributors.html('<p><a href="https://github.com/php-earth/php-resources/graphs/contributors">Awesome contributors on GitHub</a></p>');
+            $contributors.html('<p><a href="https://github.com/php-earth/php-knowledge/graphs/contributors">Awesome contributors on GitHub</a></p>');
         };
         $.when($.ajax({cache: false, dataType: 'jsonp', type: 'GET', url: "https://api.github.com/repos/wwphp-fb/wwphp-fb.github.io/contributors?per_page=100"}),
-               $.ajax({cache: false, dataType: 'jsonp', type: 'GET', url: "https://api.github.com/repos/php-earth/php-resources/contributors?per_page=100"}),
+               $.ajax({cache: false, dataType: 'jsonp', type: 'GET', url: "https://api.github.com/repos/php-earth/php-knowledge/contributors?per_page=100"}),
                $.ajax({cache: false, dataType: 'jsonp', type: 'GET', url: "https://api.github.com/repos/php-earth/facebook-bot/contributors?per_page=100"})
         ).then(function(a1, a2, a3) {
             // Each argument is an array with the following structure: [ data, statusText, jqXHR ]
