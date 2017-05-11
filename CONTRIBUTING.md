@@ -19,8 +19,8 @@ and some extra information about it.
   your fork if your master branch is merged
 
   ```bash
-  git clone git@github.com:your_username/php.earth
-  cd php.earth
+  git clone git@github.com:your_username/PHP.earth
+  cd PHP.earth
   git checkout -b patch-1
   ```
 * Make changes, commit them and push to your fork
