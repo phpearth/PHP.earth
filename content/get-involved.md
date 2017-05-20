@@ -1,9 +1,9 @@
 ---
 description: "Get involved and give something back to the community."
-image: "https://raw.githubusercontent.com/php-earth/assets/master/meta/elephpant.png"
+image: "https://raw.githubusercontent.com/php-earth/PHP.earth/master/assets/meta/elephpant.png"
 ---
 
-![ElePHPant](https://raw.githubusercontent.com/php-earth/assets/master/meta/elephpant.png "ElePHPant")
+![ElePHPant](https://raw.githubusercontent.com/php-earth/PHP.earth/master/assets/meta/elephpant.png "ElePHPant")
 
 # Get Involved
 
@@ -28,19 +28,20 @@ PHP.earth open source projects are available on [GitHub](https://github.com/php-
 and contributing to them is as simple as possible. Just fork the project and send
 us pull request or open an issue.
 
-<div class="panel callout radius" style="margin-top: 50px"><img src="/assets/img/octocat.png" alt="Octocat">Go to GitHub, fork
-the <a href="https://github.com/php-earth">wanted project</a> and send us pull request.</div>
+![Octocat](https://raw.githubusercontent.com/php-earth/PHP.earth/master/assets/meta/octocat.png "Octocat")
+
+Go to GitHub, fork <a href="https://github.com/php-earth">wanted project</a> and
+send a pull request.
 
 * **PHP Knowledge**
 
   The [php-knowledge](https://github.com/php-earth/php-knowledge) repository
   contains all the content from the FAQ and the articles.
 
-  You can help us improve the [frequently asked questions](/doc/faq),
-  [articles](/doc) and [best practices](/doc/best-practices/index) if there
-  are missing information that should be pointed out or fix typos. The
-  [opened issues](https://github.com/php-earth/php-knowledge/issues) contain
-  list of things to fix and improve.
+  You can help us improve the frequently asked questions, articles and
+  best practices if there are missing information that should be pointed out or
+  fix typos. The [opened issues](https://github.com/php-earth/php-knowledge/issues)
+  contain list of things to fix and improve.
 
   GitHub provides also built in editor on GitHub so editing content should be
   quite simple. You will get used to it in no time. Otherwise below is also a

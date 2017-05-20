@@ -1,6 +1,6 @@
 ---
 description: "MRA defines an optional mechanism available to administrators to grant the possibility of removing lifetime or permanent bans."
-image: "https://raw.githubusercontent.com/php-earth/assets/master/meta/mra.jpg"
+image: "https://raw.githubusercontent.com/php-earth/PHP.earth/master/assets/meta/mra.jpg"
 ---
 
 # Membership Resurrection Act
