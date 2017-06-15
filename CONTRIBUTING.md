@@ -1,15 +1,15 @@
-# Contributing Guide to PHP Resources
+# Contributing guide
 
 We love contributors and people willing to help.
 
-## How Can You Help?
+## How can you help?
 
 * Report issues
 * Fix typos and grammar
 * Add new content
 * Improve existing chapters
 
-## Contributing Procedure
+## Contributing procedure
 
 Below is described procedure for contributing to this repository in particular
 and some extra information about it.
@@ -32,7 +32,7 @@ and some extra information about it.
   ```
 * Open a pull request
 
-## Style Guide
+## Style guide
 
 * This repository uses [Markdown](https://daringfireball.net/projects/markdown/)
   syntax and follows
@@ -47,10 +47,6 @@ and some extra information about it.
   English](https://en.wikipedia.org/wiki/American_English) (e.g. behavior, not
   behaviour).
 
-* Titles have [capitalized](https://en.wikipedia.org/wiki/Letter_case#Headings_and_publication_titles)
-  certain words such as nouns, pronouns, adjectives, verbs, adverbs, and subordinate
-  conjunctions.
-
 * Use gender-neutral language (instead of *he* or *she* use *they*, *them*,
   *their*, *theirs*, *themselves*).
 
@@ -59,10 +55,9 @@ and some extra information about it.
 
 ## Images
 
-Some images are created with the [draw.io][draw.io] tool. They are also located
-in a [separate repository](https://github.com/php-earth/assets).
+Some images are created with the [draw.io][draw.io] tool.
 
-## YAML Front Matter
+## YAML front matter
 
 Contents include the YAML front matter blocks with the following parameters to
 define extra content information:
@@ -71,7 +66,7 @@ define extra content information:
 * `description`
 * `image` - image used for open graph
 
-## GitHub Issues Labels
+## GitHub issues labels
 
 Labels are used to organize issues and pull requests into manageable categories.
 The following labels are used:

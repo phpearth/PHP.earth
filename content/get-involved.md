@@ -5,11 +5,11 @@ image: "https://raw.githubusercontent.com/php-earth/PHP.earth/master/assets/meta
 
 ![ElePHPant](https://raw.githubusercontent.com/php-earth/PHP.earth/master/assets/meta/elephpant.png "ElePHPant")
 
-# Get Involved
+# Get involved
 
 Get involved in PHP community and give something back to the community.
 
-## How Can You Help?
+## How can you help?
 
 ### Share your knowledge
 
@@ -33,7 +33,7 @@ us pull request or open an issue.
 Go to GitHub, fork <a href="https://github.com/php-earth">wanted project</a> and
 send a pull request.
 
-* **PHP Knowledge**
+* **PHP knowledge**
 
   The [php-knowledge](https://github.com/php-earth/php-knowledge) repository
   contains all the content from the FAQ and the articles.
@@ -109,7 +109,7 @@ with [Git version control system](/doc/interop/git) usage and how to use
 
 * Send a pull request
 
-### Pinned Topics
+### Pinned topics
 
 Every week or two we have special topics in the
 [Facebook group](https://facebook.com/groups/2204685680) to help people gaining
@@ -118,7 +118,7 @@ for the PHP community or the group in general. These topics are pinned on top of
 the group for few days. You can send your suggestions by getting in touch with
 us.
 
-### Join the Core Team
+### Join the core team
 
 Team members are carefully selected by the current staff. Get in touch with us
 for further discussion. If we decide to recruit more team members we will talk to
@@ -128,7 +128,7 @@ our nominees, maybe one day to you.
 
 Administrators and moderators moderate the Facebook group.
 
-#### Core Contributors
+#### Core contributors
 
 Core contributor position is given as a recognition for dedicated contributions
 to open source repositories. Core contributors have push access to open source

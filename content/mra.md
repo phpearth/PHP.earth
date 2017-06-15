@@ -3,7 +3,7 @@ description: "MRA defines an optional mechanism available to administrators to g
 image: "https://raw.githubusercontent.com/php-earth/PHP.earth/master/assets/meta/mra.jpg"
 ---
 
-# Membership Resurrection Act
+# Membership resurrection act
 
 **of the Global PHP Group**
 
@@ -30,13 +30,13 @@ A membership resurrection can only be applied after a ban-period of **one week**
 
 Warrants can only be people who are at least **3 months** in the group.
 
-## Rights of Warrants
+## Rights of warrants
 
 Warrants have the right to "give up" and request the termination of the membership
 resurrection. The termination of the membership resurrection has no effect to the
 warrants and will enforce the initial punishment.
 
-## Rights of Administrators
+## Rights of administrators
 
 Administrators have the right to stop a membership resurrection when one or more
 warrants are identified as fake accounts.
@@ -60,7 +60,6 @@ There is no place for discussion. Since a lot must went wrong to get banned, a
 resurrection of a banned membership must have high costs.
 
 ```text
-Engaged 04/2016 by the Administrators of the
-Global PHP Group
+Engaged 04/2016 by the administrators of the Global PHP Group
 on behalf of a positive experience for everyone at the group
 ```
