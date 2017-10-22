@@ -35,12 +35,12 @@ send a pull request.
 
 * **PHP knowledge**
 
-  The [php-knowledge](https://github.com/php-earth/php-knowledge) repository
-  contains all the content from the FAQ and the articles.
+  The [PHP.earth docs](https://github.com/php-earth/docs) repository contains all
+  the content from the FAQ and the articles.
 
   You can help us improve the frequently asked questions, articles and
   best practices if there are missing information that should be pointed out or
-  fix typos. The [opened issues](https://github.com/php-earth/php-knowledge/issues)
+  fix typos. The [opened issues](https://github.com/php-earth/docs/issues)
   contain list of things to fix and improve.
 
   GitHub provides also built in editor on GitHub so editing content should be
@@ -64,13 +64,13 @@ with [Git version control system](/doc/interop/git) usage and how to use
 * Setup your local environment:
 
   ```bash
-  git clone git@github.com:your_username/php-knowledge.git
+  git clone git@github.com:your_username/docs
   ```
 
 * Set up your repository and set a remote branch for future updates:
 
   ```bash
-  git remote add upstream git://github.com/php-earth/php-knowledge.git
+  git remote add upstream git://github.com/php-earth/docs
   git config branch.master.remote upstream
   ```
 
