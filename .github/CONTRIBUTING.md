@@ -81,4 +81,4 @@ The following labels are used:
 ## License
 
 By contributing to this repository you agree to share your knowledge under the
-[Creative Commons Attribution-ShareAlike 4.0 International][license].
+[Creative Commons Attribution-ShareAlike 4.0 International](/LICENSE).
