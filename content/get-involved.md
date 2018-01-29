@@ -130,6 +130,12 @@ Administrators and moderators moderate the Facebook group.
 
 #### Core contributors
 
-Core contributor position is given as a recognition for dedicated contributions
-to open source repositories. Core contributors have push access to open source
-repositories on GitHub.
+Core contributor position is given as a recognition for someone's contributions
+to open source repositories. Core contributors have push access to predefined
+GitHub open source repositories and partial access to internal information about
+the PHP.earth based on the work needed for these repositories.
+
+Responsibilities:
+
+* Merging pull requests
+* Contributing patches to open source repositories
