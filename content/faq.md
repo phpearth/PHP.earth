@@ -57,3 +57,20 @@ functionality is not the same as on the desktop.
 
 Instead of pinning posts, we use multiple different approaches to inform group
 members about the group rules.
+
+### Why is English the only allowed language in the group?
+
+Facebook provides an automatic translation feature for some languages. In some
+cases, it might seem like a good idea to allow discussions in other languages as
+well. However, not all languages are properly supported by automatic translation
+tool and some words would not be translated properly. For cases, where admin
+actions would be required (insults, hate speech and similar), it would be
+impossible to properly address such situations.
+
+People in the group are located from all over the world, so English is a standard
+language used for such cases.
+
+However, PHP community provides and encourages all the support for linguistic
+diversity for local user groups via 
+[https://php.ug](https://php.ug), where you should join, support or add your
+local user group with your preferred language.
