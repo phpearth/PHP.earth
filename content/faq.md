@@ -29,7 +29,7 @@ we might enable this one day.
 
 ### Why not adding tags on the questions (for example `beginner`, `advanced`, etc)?
 
-![Post tags](https://raw.githubusercontent.com/php-earth/assets/master/images/content/faq-post-approvals.png "Post tags")
+![Post tags](https://raw.githubusercontent.com/php-earth/assets/master/images/content/faq-tags.png "Post tags")
 
 A very good idea would be to add tags or hashtags on questions. For example, to
 categorize questions based on the skill level, context and similar. However,
