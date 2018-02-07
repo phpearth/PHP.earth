@@ -76,7 +76,7 @@ diversity for local user groups via
 [php.ug](https://php.ug), where you should join, support or add your
 local user group with your preferred language.
 
-### Why is sharing private data bad?
+## Why is sharing private data bad?
 
 Sharing private data, especially emails, phone numbers, and similar contact data
 is in general, a bad choice due to the fact of getting unsolicited promotion
