@@ -75,3 +75,20 @@ However, PHP community provides and encourages all the support for linguistic
 diversity for local user groups via 
 [php.ug](https://php.ug), where you should join, support or add your
 local user group with your preferred language.
+
+### Why is sharing private data bad?
+
+Sharing private data, especially emails, phone numbers, and similar contact data
+is in general, a bad choice due to the fact of getting unsolicited promotion
+materials (spam). Group administrators take privacy very seriously, therefore the
+deletion of any contact details such as or emails or phone numbers without
+research if it is for business purposes or private.
+
+This is done for *two* main reasons: Avoiding spam and for educational purposes
+of community members to raise awareness of the privacy importance online.
+
+Facebook has a great and secure private messaging functionality, which you should
+use instead of exchanging contact information publicly in comments.
+
+Furthermore, requesting for the private data in most countries requires special
+handling by the law and options to opt-out.
