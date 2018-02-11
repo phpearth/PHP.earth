@@ -1,16 +1,15 @@
 ---
 image: https://raw.githubusercontent.com/php-earth/assets/master/images/content/smart-questions/intro.jpg
-description: "Before asking a colleague, friend or teammate a technical/development question make sure you do some research and study your issue on your own first."
+description: "Before asking a technical question make sure you do some research and study your issue on your own first."
 ---
 
 # How to ask smart questions?
 
 This is a user-friendly community recommendation how to ask smart and efficient
-questions in technical groups and forums when you *hit a wall* and don't know
-how to go further.
+questions in technical groups when you *hit a wall* and don't know how continue.
 
-Go through the following steps to find the best possible solutions and get
-useful answers.
+The following steps will help you find the best possible solutions and get useful
+answers.
 
 <div class="ui relaxed divided items">
   <div class="item">
@@ -23,11 +22,10 @@ useful answers.
         <span>Research your problem before you ask for help.</span>
       </div>
       <div class="description">
-        <p>Look for tutorials, documentation, and similar questions asked in the
-        past.</p>
+        <p>Look for tutorials, documentation, and similar questions asked before.</p>
         <p>You may be able to save the time of the helper, and even if your
-        research doesn't answer your questions, you'll be better able to convey
-        your questions in a better, more sensible manner.</p>
+        research doesn't answer your questions, you'll be able to convey your
+        questions in a more sensible manner.</p>
       </div>
       <div class="extra">
         <a class="ui blue label" href="https://php.earth/docs/faq/misc/how-to-google"><i class="attach icon"></i> Google operators</a>
@@ -119,9 +117,9 @@ useful answers.
       </div>
       <div class="description">
         <p>Make sure you write questions that clearly and concisely communicate
-        the problems you want solved. This may include program version information
-        and other details about the system you're using. For sharing code use
-        nopaste sites.</p>
+        the problems you want solved. This may include program version
+        information and other details about the system you're using.</p>
+        <p>For sharing code use nopaste sites.</p>
       </div>
       <div class="extra">
         <a class="ui blue label" href="https://php.earth/docs/interop/nopaste"><i class="attach icon"></i> Nopaste sites</a>
@@ -134,14 +132,13 @@ useful answers.
       <img src="https://raw.githubusercontent.com/php-earth/PHP.earth/master/assets/images/community/smart-questions/8.png" alt="Include purpose">
     </div>
     <div class="content">
-      <h2 class="header">Include purpose</h2>
+      <h2 class="header">Include a purpose</h2>
       <div class="meta">
-        <span>Include a reason for your question.</span>
+        <span>Add a reason for your question.</span>
       </div>
       <div class="description">
-        <p>Including a reason and what you want to achieve will allow the person
-        answering your question to provide the right solution even when it isn't
-        obvious.</p>
+        <p>Information what you want to achieve will allow the person answering
+        your question to provide the right solution even when it isn't obvious.</p>
       </div>
     </div>
   </div>
@@ -169,14 +166,11 @@ useful answers.
     <div class="content">
       <h2 class="header">Don't delete your question</h2>
       <div class="meta">
-        <span>Solutions will help someone else in the future.</span>
+        <span>Your question will also help someone else in the future.</span>
       </div>
       <div class="description">
-        <p>Respect the time of others willing to help you. Leaving topics
-        available for others, might also help someone like you.</p>
-        <p>Topics are also available in the search results and therefore available
-        for people looking for existing solutions.
-        </p>
+        <p>Respect the time of others willing to help you. Leaving the solutions
+        available for others in search results, might also help someone like you.</p>
       </div>
     </div>
   </div>
@@ -191,10 +185,10 @@ useful answers.
         <span>Attitude is everything.</span>
       </div>
       <div class="description">
-        <p>Say <em>Thank you</em>, when your question is answered. This will give
-        a much better impression about you and help to cultivate warm feelings
-        for those solving your question.</p>
-        <p>In case you've found a solution on your own, let people know about it.</p>
+        <p>Expressing gratitude when your question is answered will give a much
+        better impression about you and help to cultivate warm feelings for
+        those solving your question.</p>
+        <p>If you've found a solution on your own, also let people know about it.</p>
       </div>
     </div>
   </div>
