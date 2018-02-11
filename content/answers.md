@@ -4,7 +4,7 @@ Online communities are based on people seeking knowledge, sharing knowledge and
 asking questions.
 
 To give something back to the community you are encouraged to help people the
-way you can. However not every answer is unfortunately helpful everytime.
+way you can. However, not every answer is unfortunately helpful everytime.
 
 ## Introduction
 
@@ -26,7 +26,16 @@ Imagine you get stuck at a particular issue where your knowledge cannot solve it
 right away and this prevents you to continue. One way to get help on the task is
 to ask the community. Using search engines works until you don't particularly
 know what kind of a solution you are after or results are not understandable
-enough for your knowledge level.
+enough for your knowledge level. Searching for something with insufficient
+knowledge can many times feel like looking for a needle in a haystack.
+
+Empathy is the ability to understand and share the feelings and situation of
+someone else. Many people, specially programmers lack such ability to look at
+the situation through the perspective of someone else. This is also results in
+insuficient people skills.
+
+Being rude is simple. Being kind and helpful can be sometimes difficult and you
+need to train and learn such skills.
 
 ## How to give quality answers?
 
@@ -35,12 +44,26 @@ enough for your knowledge level.
 * Find existing solutions which address the issue and give user links with
   additional explanations.
 * Attitude is everything. Be nice and respectful to the one asking for help.
-* For most questions asked pointing to search engines such as Google is not a
-  solution for the one asking a question. That is inefficient and doesn't add any
-  value of attraction to the group. Also many times the searching for something
-  on search engines with insufficient knowledge is like looking for a needle in
-  a haystack.
+* For most questions asked only pointing to search engines such as Google is not
+  a solution. It is inefficient and doesn't add any value of attraction to the
+  response.
 * Being sarcastic and rude to beginners is definitely a turn off.
 * Demonstrate knowledge prior feelings.
 
-By answering you can also learn from the questions yourself on the way.
+## Why bothering?
+
+* You will learn from the questions as well.
+* You will be more motivated to study particular topic, as on your own.
+* You are helping to raise the *awesome* factor of a particular community.
+* Optionally, share the solutions also on your blog or contribute them to
+  the particular documentation for future similar issues if they weren't there
+  before.
+* Being kind and helpful is very contagious. You will influence other community
+  members through your behavior.
+
+## See also
+
+Further similar guides:
+
+* [Growing your experience with community participation](https://mauricio.github.io/2014/12/03/growing-your-experience-with-community-participation.html)
+* [Nomad PHP: How to ruin a career in 10 easy minutes](https://www.youtube.com/watch?v=T65G4RHzU10)
