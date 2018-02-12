@@ -4,14 +4,13 @@ Online communities are based on people seeking knowledge, sharing knowledge and
 asking questions.
 
 To give something back to the community you are encouraged to help people the
-way you can. However, not every answer is unfortunately helpful everytime.
+way you can. Unfortunately, not every answer is helpful every time.
 
 ## Introduction
 
-This recommendation is the result of a long term observation of the group and
-how people asking questions really feel. It is a summary of ideas and concepts
-of how to improve the communication levels inside the group and the international
-community.
+This recommendation is the result of a long-term observation how people asking
+questions really feel. It is a summary of ideas and concepts of how to improve
+the communication levels inside the group and the international community.
 
 This document recommends how to react as a community member to questions and to
 provide the best possible experience as being a community member.
@@ -29,13 +28,13 @@ know what kind of a solution you are after or results are not understandable
 enough for your knowledge level. Searching for something with insufficient
 knowledge can many times feel like looking for a needle in a haystack.
 
-Empathy is the ability to understand and share the feelings and situation of
-someone else. Many people, specially programmers lack such ability to look at
-the situation through the perspective of someone else. This is also results in
-insuficient people skills.
+Empathy is the ability to understand and share the feelings of someone else.
+Many people lack the ability to look at the situation through the perspective of
+someone else. This also results in insufficient people skills.
 
-Being rude is simple. Being kind and helpful can be sometimes difficult and you
-need to train and learn such skills.
+People are not logical, unlike programming languages. Being rude is simple.
+Being kind and helpful can be sometimes difficult and you need to train and
+learn such skills.
 
 ## How to give quality answers?
 
@@ -47,19 +46,22 @@ need to train and learn such skills.
 * For most questions asked only pointing to search engines such as Google is not
   a solution. It is inefficient and doesn't add any value of attraction to the
   response.
-* Being sarcastic and rude to beginners is definitely a turn off.
+* Being sarcastic and rude to beginners is definitely a turn-off.
 * Demonstrate knowledge prior feelings.
 
 ## Why bothering?
 
 * You will learn from the questions as well.
-* You will be more motivated to study particular topic, as on your own.
+* You will be more motivated to study a particular topic.
 * You are helping to raise the *awesome* factor of a particular community.
-* Optionally, share the solutions also on your blog or contribute them to
-  the particular documentation for future similar issues if they weren't there
-  before.
 * Being kind and helpful is very contagious. You will influence other community
   members through your behavior.
+
+Optionally, share the solutions also on your blog or contribute them to the
+particular documentation for future similar issues if they weren't noted there
+before.
+
+**Thank you for reading and helping out.**
 
 ## See also
 
