@@ -1,10 +1,9 @@
 # How to answer questions?
 
 Online communities are based on people seeking knowledge, sharing knowledge and
-asking questions.
-
-To give something back to the community you are encouraged to help people the
-way you can. Unfortunately, not every answer is helpful every time.
+asking questions. To give something back to the community you are encouraged to
+help people the way you can. Unfortunately, not every answer is helpful every
+time.
 
 ## Introduction
 
@@ -48,6 +47,9 @@ learn such skills.
   response.
 * Being sarcastic and rude to beginners is definitely a turn-off.
 * Demonstrate knowledge prior feelings.
+* Vague, short or insufficient answers are not helpful.
+* Repeating answers are not efficient unless answer adds additional information
+  or improves the prior answers.
 
 ## Why bothering?
 
