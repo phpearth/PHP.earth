@@ -63,6 +63,11 @@ Optionally, share the solutions also on your blog or contribute them to the
 particular documentation for future similar issues if they weren't noted there
 before.
 
+## What to do when the question is not good?
+
+* Recommendation: politely share the
+  [smart questions guide](https://php.earth/smart-questions).
+
 **Thank you for reading and helping out.**
 
 ## See also
