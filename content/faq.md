@@ -50,15 +50,6 @@ Our quality and codex standards would also require to properly sync different
 teams of multiple groups properly, so for the time being, we will try to go with
 a single monolithic group on Facebook.
 
-## Why not pinning a post with the group rules or a PHP guide?
-
-At the time of this writing, we have tried many types of pinned posts. On mobile
-devices pinned posts are visible after another click elsewhere, so the
-functionality is not the same as on the desktop.
-
-Instead of pinning posts, we use multiple different approaches to inform group
-members about the group rules.
-
 ## Why only English?
 
 Facebook provides an automatic translation feature for some languages. In some
