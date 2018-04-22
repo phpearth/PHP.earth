@@ -65,8 +65,7 @@ before.
 
 ## What to do when the question is not good?
 
-* Recommendation: politely share the
-  [smart questions guide](https://php.earth/smart-questions).
+* Recommendation: politely share the [questions guide](https://php.earth/questions).
 
 **Thank you for reading and helping out.**
 
