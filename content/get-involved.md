@@ -1,9 +1,9 @@
 ---
 description: "Get involved and give something back to the community."
-image: "https://raw.githubusercontent.com/php-earth/PHP.earth/master/assets/meta/elephpant.png"
+image: "https://raw.githubusercontent.com/phpearth/PHP.earth/master/assets/meta/elephpant.png"
 ---
 
-![ElePHPant](https://raw.githubusercontent.com/php-earth/PHP.earth/master/assets/meta/elephpant.png "ElePHPant")
+![ElePHPant](https://raw.githubusercontent.com/phpearth/PHP.earth/master/assets/meta/elephpant.png "ElePHPant")
 
 # Get involved
 
@@ -24,23 +24,23 @@ world. It can and should be first of all fun but it requires also lots of
 technical skills, patience, ability to work with others, constant adaptations
 and many commitments as well.
 
-PHP.earth open source projects are available on [GitHub](https://github.com/php-earth)
+PHP.earth open source projects are available on [GitHub](https://github.com/phpearth)
 and contributing to them is as simple as possible. Just fork the project and send
 us pull request or open an issue.
 
-![Octocat](https://raw.githubusercontent.com/php-earth/PHP.earth/master/assets/meta/octocat.png "Octocat")
+![Octocat](https://raw.githubusercontent.com/phpearth/PHP.earth/master/assets/meta/octocat.png "Octocat")
 
-Go to GitHub, fork <a href="https://github.com/php-earth">wanted project</a> and
+Go to GitHub, fork <a href="https://github.com/phpearth">wanted project</a> and
 send a pull request.
 
 * **PHP knowledge**
 
-  The [PHP.earth docs](https://github.com/php-earth/docs) repository contains all
+  The [PHP.earth docs](https://github.com/phpearth/docs) repository contains all
   the content from the FAQ and the articles.
 
   You can help us improve the frequently asked questions, articles and
   best practices if there are missing information that should be pointed out or
-  fix typos. The [opened issues](https://github.com/php-earth/docs/issues)
+  fix typos. The [opened issues](https://github.com/phpearth/docs/issues)
   contain list of things to fix and improve.
 
   GitHub provides also built in editor on GitHub so editing content should be
@@ -50,7 +50,7 @@ send a pull request.
 
 * **Stats**
 
-  The [stats](https://github.com/php-earth/stats) application for generating weekly
+  The [stats](https://github.com/phpearth/stats) application for generating weekly
   group stats report is written in PHP.
 
 #### Contributing procedure
@@ -59,7 +59,7 @@ Before contributing to any open source project on GitHub get yourself familiar
 with [Git version control system](/doc/interop/git) usage and how to use
 [GitHub](https://help.github.com/).
 
-* Fork wanted project from [GitHub](https://github.com/php-earth)
+* Fork wanted project from [GitHub](https://github.com/phpearth)
 
 * Setup your local environment:
 
@@ -70,7 +70,7 @@ with [Git version control system](/doc/interop/git) usage and how to use
 * Set up your repository and set a remote branch for future updates:
 
   ```bash
-  git remote add upstream git://github.com/php-earth/docs
+  git remote add upstream git://github.com/phpearth/docs
   git config branch.master.remote upstream
   ```
 

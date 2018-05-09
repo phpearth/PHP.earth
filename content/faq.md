@@ -1,9 +1,9 @@
 ---
 description: "Internal frequently asked questions"
-image: https://raw.githubusercontent.com/php-earth/assets/master/images/content/faq-intro.png
+image: https://raw.githubusercontent.com/phpearth/assets/master/images/content/faq-intro.png
 ---
 
-![Post approval](https://raw.githubusercontent.com/php-earth/assets/master/images/content/faq-intro.png "Post approval")
+![Post approval](https://raw.githubusercontent.com/phpearth/assets/master/images/content/faq-intro.png "Post approval")
 
 # PHP.earth internal FAQ
 
@@ -14,7 +14,7 @@ and some of the PHP.earth inner workings.
 
 ## Why aren't posts approved manually by admins?
 
-![Post approval](https://raw.githubusercontent.com/php-earth/assets/master/images/content/faq-post-approvals.png "Post approval")
+![Post approval](https://raw.githubusercontent.com/phpearth/assets/master/images/content/faq-post-approvals.png "Post approval")
 
 Facebook groups have a feature where admins can approve posts before they appear
 on the group timeline. Admins have already used this feature in the past and a
@@ -29,14 +29,14 @@ enable this one day though.
 
 ## Why not adding tags to the posts (beginner, advanced, PHP, JavaScript, etc.)?
 
-![Post tags](https://raw.githubusercontent.com/php-earth/assets/master/images/content/faq-tags.png "Post tags")
+![Post tags](https://raw.githubusercontent.com/phpearth/assets/master/images/content/faq-tags.png "Post tags")
 
 A very good idea would be to add custom tags to questions. For example, to
 categorize questions based on the skill level or context.
 
 However, Facebook groups are not forums in the usual sense.
 
-![Admin options](https://raw.githubusercontent.com/php-earth/assets/master/images/content/faq-admin-options.png "Admin options")
+![Admin options](https://raw.githubusercontent.com/phpearth/assets/master/images/content/faq-admin-options.png "Admin options")
 
 Admins don't have options to edit another user's post. Furthermore, asking every
 single member to add certain tag would be very time consuming and opinionated
