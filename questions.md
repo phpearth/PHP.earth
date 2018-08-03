@@ -1,5 +1,5 @@
 ---
-image: https://raw.githubusercontent.com/phpearth/assets/master/images/content/smart-questions/intro.jpg
+image: https://assets.php.earth/content/smart-questions/intro.jpg
 description: "Before asking a technical question make sure you do some research and study your issue on your own first."
 ---
 
@@ -36,7 +36,7 @@ answers.
 
   <div class="item">
     <div class="image">
-      <img src="https://raw.githubusercontent.com/phpearth/PHP.earth/master/assets/images/community/smart-questions/3.png" alt="Ask the right people">
+      <img src="https://assets.php.earth/docs/community/smart-questions/3.png" alt="Ask the right people">
     </div>
     <div class="content">
       <h2 class="header">Ask the right people</h2>
@@ -55,7 +55,7 @@ answers.
 
   <div class="item">
     <div class="image">
-      <img src="https://raw.githubusercontent.com/phpearth/PHP.earth/master/assets/images/community/smart-questions/1.png" alt="Don't ask to ask">
+      <img src="https://assets.php.earth/docs/community/smart-questions/1.png" alt="Don't ask to ask">
     </div>
     <div class="content">
       <h2 class="header">Don't ask to ask</h2>
@@ -72,7 +72,7 @@ answers.
 
   <div class="item">
     <div class="image">
-      <img src="https://raw.githubusercontent.com/phpearth/assets/master/images/content/smart-questions/group.png" alt="Ask everyone">
+      <img src="https://assets.php.earth/content/smart-questions/group.png" alt="Ask everyone">
     </div>
     <div class="content">
       <h2 class="header">Ask everyone</h2>
@@ -88,7 +88,7 @@ answers.
 
   <div class="item">
     <div class="image">
-      <img src="https://raw.githubusercontent.com/phpearth/PHP.earth/master/assets/images/community/smart-questions/6.png" alt="Don't ask when busy">
+      <img src="https://assets.php.earth/docs/community/smart-questions/6.png" alt="Don't ask when busy">
     </div>
     <div class="content">
       <h2 class="header">Don't ask when busy</h2>
@@ -108,7 +108,7 @@ answers.
 
   <div class="item">
     <div class="image">
-      <img src="https://raw.githubusercontent.com/phpearth/PHP.earth/master/assets/images/community/smart-questions/7.png" alt="Be clear">
+      <img src="https://assets.php.earth/docs/community/smart-questions/7.png" alt="Be clear">
     </div>
     <div class="content">
       <h2 class="header">Be clear</h2>
@@ -129,7 +129,7 @@ answers.
 
   <div class="item">
     <div class="image">
-      <img src="https://raw.githubusercontent.com/phpearth/PHP.earth/master/assets/images/community/smart-questions/8.png" alt="Include purpose">
+      <img src="https://assets.php.earth/docs/community/smart-questions/8.png" alt="Include purpose">
     </div>
     <div class="content">
       <h2 class="header">Include a purpose</h2>
@@ -145,7 +145,7 @@ answers.
 
   <div class="item">
     <div class="image">
-      <img src="https://raw.githubusercontent.com/phpearth/PHP.earth/master/assets/images/community/smart-questions/9.png" alt="Be patient">
+      <img src="https://assets.php.earth/docs/community/smart-questions/9.png" alt="Be patient">
     </div>
     <div class="content">
       <h2 class="header">Be patient</h2>
@@ -161,7 +161,7 @@ answers.
 
   <div class="item">
     <div class="image">
-      <img src="https://raw.githubusercontent.com/phpearth/assets/master/images/content/smart-questions/stress-ball.jpg" alt="Don't delete your question">
+      <img src="https://assets.php.earth/content/smart-questions/stress-ball.jpg" alt="Don't delete your question">
     </div>
     <div class="content">
       <h2 class="header">Don't delete your question</h2>
@@ -177,7 +177,7 @@ answers.
 
   <div class="item">
     <div class="image">
-      <img src="https://raw.githubusercontent.com/phpearth/assets/master/images/content/smart-questions/thank-you.jpg" alt="Thank you">
+      <img src="https://assets.php.earth/content/smart-questions/thank-you.jpg" alt="Thank you">
     </div>
     <div class="content">
       <h2 class="header">Say, thank you</h2>
