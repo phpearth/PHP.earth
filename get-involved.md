@@ -1,9 +1,9 @@
 ---
 description: "Get involved and give something back to the community."
-image: "https://raw.githubusercontent.com/phpearth/PHP.earth/master/assets/meta/elephpant.png"
+image: "https://assets.php.earth/content/elephpant.png"
 ---
 
-![ElePHPant](https://raw.githubusercontent.com/phpearth/PHP.earth/master/assets/meta/elephpant.png "ElePHPant")
+![ElePHPant](https://assets.php.earth/content/elephpant.png "ElePHPant")
 
 # Get involved
 
@@ -28,7 +28,7 @@ PHP.earth open source projects are available on [GitHub](https://github.com/phpe
 and contributing to them is as simple as possible. Just fork the project and send
 us pull request or open an issue.
 
-![Octocat](https://raw.githubusercontent.com/phpearth/PHP.earth/master/assets/meta/octocat.png "Octocat")
+![Octocat](https://assets.php.earth/content/octocat.png "Octocat")
 
 Go to GitHub, fork <a href="https://github.com/phpearth">wanted project</a> and
 send a pull request.
