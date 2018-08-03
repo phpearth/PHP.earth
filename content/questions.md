@@ -28,8 +28,8 @@ answers.
         questions in a more sensible manner.</p>
       </div>
       <div class="extra">
-        <a class="ui blue label" href="https://php.earth/docs/faq/misc/how-to-google"><i class="attach icon"></i> Google operators</a>
-        <a class="ui blue label" href="https://php.earth/docs/faq"><i class="attach icon"></i> FAQ</a>
+        <a class="ui blue label" href="https://docs.php.earth/faq/misc/how-to-google"><i class="attach icon"></i> Google operators</a>
+        <a class="ui blue label" href="https://docs.php.earth/faq"><i class="attach icon"></i> FAQ</a>
       </div>
     </div>
   </div>
@@ -101,7 +101,7 @@ answers.
         be able to help.</p>
       </div>
       <div class="extra">
-        <a class="ui blue label" href="https://php.earth/docs/php/community/groups"><i class="globe icon"></i> PHP community</a>
+        <a class="ui blue label" href="https://docs.php.earth/php/community/groups"><i class="globe icon"></i> PHP community</a>
       </div>
     </div>
   </div>
@@ -122,7 +122,7 @@ answers.
         <p>For sharing code use nopaste sites.</p>
       </div>
       <div class="extra">
-        <a class="ui blue label" href="https://php.earth/docs/interop/nopaste"><i class="attach icon"></i> Nopaste sites</a>
+        <a class="ui blue label" href="https://docs.php.earth/interop/nopaste"><i class="attach icon"></i> Nopaste sites</a>
       </div>
     </div>
   </div>
