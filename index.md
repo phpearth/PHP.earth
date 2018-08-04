@@ -31,18 +31,20 @@
   </div>
   <div class="row">
     <div class="column">
-    <div class="ui segment">
+      <div class="ui segment">
         <h2 class="pe-center"><a href="https://docs.php.earth">Documentation</a></h2>
         <p>This is a living repository that includes a collection of articles, best practices and frequently asked questions about PHP.</p>
+      </div>
     </div>
-    </div>
+    {% comment %}
     <div class="column">
-    <div class="ui segment">
+      <div class="ui segment">
         <h2 class="pe-center"><a href="/install">PHP installation wizard</a></h2>
         <img class="ui small left floated image" src="https://assets.php.earth/content/wizard.png">
         <p>A helpful, step by step wizard to install the latest PHP versions on your preferred system.</p>
+      </div>
     </div>
-    </div>
+    {% endcomment %}
   </div>
 </div>
 
