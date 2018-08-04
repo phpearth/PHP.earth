@@ -56,8 +56,8 @@ send a pull request.
 #### Contributing procedure
 
 Before contributing to any open source project on GitHub get yourself familiar
-with [Git version control system](/doc/interop/git) usage and how to use
-[GitHub](https://help.github.com/).
+with [Git version control system](https://docs.php.earth/interop/git) usage and
+how to use [GitHub](https://help.github.com/).
 
 * Fork wanted project from [GitHub](https://github.com/phpearth)
 
