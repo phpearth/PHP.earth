@@ -5,3 +5,5 @@ exclude:
   - LICENSE
   - Makefile
   - README.md
+plugins:
+  - jekyll-redirect-from
