@@ -1,9 +1,16 @@
 remote_theme: phpearth/github-pages-theme
-title: PHP.earth
+repository: phpearth/PHP.earth
 exclude:
   - CNAME
   - LICENSE
   - Makefile
   - README.md
+title: PHP.earth
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://assets.php.earth/content/phpearth-large.png
+
 plugins:
   - jekyll-redirect-from
