@@ -47,7 +47,6 @@
     {% endcomment %}
   </div>
 </div>
-
 <br>
 
 <p>Have a good time in our group and don't be shy to ask your question.</p>
